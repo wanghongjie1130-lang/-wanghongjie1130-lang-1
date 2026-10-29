@@ -1,0 +1,70 @@
+name: Deploy school website
+
+on:
+  workflow_dispatch:
+    inputs:
+      secret_url:
+        description: One-time JSON URL containing the SFTP password
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare static release
+        run: |
+          mkdir -p _school_site
+          cp index.html _school_site/
+          cp -R css js assets data _school_site/
+          test -f _school_site/index.html
+
+      - name: Install SFTP client
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+
+      - name: Retrieve one-time credential
+        env:
+          SECRET_URL: ${{ inputs.secret_url }}
+        run: |
+          umask 077
+          curl --fail --show-error --silent --max-time 30 \
+            -H 'Accept: application/json' "$SECRET_URL" > /tmp/school-secret.json
+          jq -e '.payload | type == "string" and length > 0' /tmp/school-secret.json > /dev/null
+          jq -r '.payload' /tmp/school-secret.json > /tmp/school-sftp-password
+
+      - name: Upload release
+        env:
+          SFTP_HOST: 117.131.156.77
+          SFTP_PORT: "10000"
+          SFTP_USER: tianrunjie
+          SFTP_DIRECTORY: /tianrunjie
+        run: |
+          password="$(cat /tmp/school-sftp-password)"
+          lftp -u "$SFTP_USER,$password" "sftp://$SFTP_HOST:$SFTP_PORT" <<LFTP
+          set sftp:auto-confirm yes
+          set net:max-retries 2
+          set net:timeout 30
+          mirror --reverse --delete --verbose --parallel=3 _school_site "$SFTP_DIRECTORY"
+          bye
+          LFTP
+          rm -f /tmp/school-sftp-password /tmp/school-secret.json
+
+      - name: Verify published website
+        run: |
+          for attempt in 1 2 3 4 5; do
+            body="$(curl --fail --show-error --silent --max-time 30 "http://117.131.156.77:10780/?deploy=${GITHUB_SHA}")" || true
+            if grep -q 'SE VOULOIR BELLE' <<<"$body" && grep -q 'js/visual-system.js' <<<"$body"; then
+              echo "School website verified."
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Uploaded files were not visible at the public URL." >&2
+          exit 1
