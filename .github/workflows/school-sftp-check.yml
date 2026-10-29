@@ -1,0 +1,27 @@
+name: Check school SFTP connectivity
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check public website
+        run: |
+          curl --fail --show-error --max-time 20 --output /dev/null http://117.131.156.77:10780/
+      - name: Check SFTP banner
+        run: |
+          python3 - <<'PY'
+          import socket
+          host, port = "117.131.156.77", 10000
+          with socket.create_connection((host, port), timeout=15) as connection:
+              connection.settimeout(10)
+              banner = connection.recv(160).decode("ascii", "replace").strip()
+              if not banner.startswith("SSH-"):
+                  raise SystemExit("SFTP endpoint did not return an SSH banner")
+              print("SFTP endpoint reachable:", banner.split(" ", 1)[0])
+          PY
