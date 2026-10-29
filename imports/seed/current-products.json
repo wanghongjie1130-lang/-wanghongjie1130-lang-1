@@ -1,0 +1,1258 @@
+{
+  "source": {
+    "id": "legacy-curated-2026-10-28",
+    "name": "Current curated records",
+    "type": "manual_json",
+    "region": "CN",
+    "retrievedAt": "2026-10-28T00:00:00Z",
+    "verifiedAt": null,
+    "confidence": 0.45,
+    "usagePermission": "manual_curation"
+  },
+  "products": [
+    {
+      "id": "p1",
+      "brand": "Dior",
+      "name": "Rouge Dior",
+      "shade": "100 Nude Look Velvet",
+      "major": "唇部彩妆",
+      "category": "口红",
+      "price": 390,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 22,
+      "s": 28,
+      "l": 53,
+      "muted": 48,
+      "tone": "neutral",
+      "colors": [
+        "裸色",
+        "棕色"
+      ],
+      "textures": [
+        "柔雾",
+        "高显色",
+        "高遮盖"
+      ],
+      "packaging": [
+        "金色金属",
+        "可替换外壳"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "滋润": 2,
+        "黏腻": 1,
+        "光泽": 1,
+        "闪粉": 0,
+        "显色": 5,
+        "遮盖": 5,
+        "转移": 3,
+        "丰唇": 0,
+        "香味": 2
+      },
+      "source": {
+        "label": "Dior 官方产品页（链接待在线复核）",
+        "url": "https://www.dior.cn/zh_cn/beauty/products/rouge-dior-lipstick",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "柔雾质地可能放大干燥唇纹；香味与配方请以购买地页面为准。",
+      "swatch": "#9f655c",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Rouge Dior",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "口红",
+      "form": "传统膏体口红",
+      "attributeTags": [
+        "柔雾"
+      ],
+      "performance": {
+        "wear": {
+          "value": null,
+          "hours": null,
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": 2,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 2,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "柔雾"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p2",
+      "brand": "CHANEL",
+      "name": "ROUGE COCO BAUME",
+      "shade": "918 My Rose",
+      "major": "唇部彩妆",
+      "category": "有色润唇膏",
+      "price": 380,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 350,
+      "s": 35,
+      "l": 66,
+      "muted": 35,
+      "tone": "neutral",
+      "colors": [
+        "粉色",
+        "裸色"
+      ],
+      "textures": [
+        "滋润",
+        "轻薄",
+        "自然光泽"
+      ],
+      "packaging": [
+        "黑金",
+        "极简设计"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "滋润": 5,
+        "黏腻": 1,
+        "光泽": 3,
+        "闪粉": 0,
+        "显色": 2,
+        "遮盖": 2,
+        "转移": 4,
+        "丰唇": 0,
+        "香味": null
+      },
+      "source": {
+        "label": "CHANEL 官方产品页（链接待在线复核）",
+        "url": "https://www.chanel.com/cn/makeup/p/171918/rouge-coco-baume-hydrating-beautifying-tinted-lip-balm/",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "颜色覆盖力较轻，深原生唇色上的效果会有差异。",
+      "swatch": "#c88787",
+      "img": "assets/images/product-packaging.svg",
+      "series": "ROUGE COCO BAUME",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "润唇产品",
+      "form": "有色润唇膏",
+      "attributeTags": [
+        "自然光泽"
+      ],
+      "performance": {
+        "wear": {
+          "value": null,
+          "hours": null,
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": 1,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 5,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "自然光泽"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p3",
+      "brand": "MAC",
+      "name": "M·A·Cximal Silky Matte Lipstick",
+      "shade": "Velvet Teddy",
+      "major": "唇部彩妆",
+      "category": "口红",
+      "price": 230,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 16,
+      "s": 35,
+      "l": 48,
+      "muted": 45,
+      "tone": "warm",
+      "colors": [
+        "裸色",
+        "棕色"
+      ],
+      "textures": [
+        "哑光",
+        "高显色",
+        "高遮盖"
+      ],
+      "packaging": [
+        "极简设计",
+        "黑金"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "滋润": 2,
+        "黏腻": 1,
+        "光泽": 0,
+        "闪粉": 0,
+        "显色": 5,
+        "遮盖": 5,
+        "转移": 2,
+        "丰唇": 0,
+        "香味": null
+      },
+      "source": {
+        "label": "MAC 官方产品页（链接待在线复核）",
+        "url": "https://www.maccosmetics.com/product/13854/123863/products/makeup/lips/lipstick/macximal-silky-matte-lipstick",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "哑光妆效对唇部打底要求较高；国内价格需在购买时核实。",
+      "swatch": "#98625b",
+      "img": "assets/images/product-packaging.svg",
+      "series": "M·A·Cximal Silky Matte Lipstick",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "口红",
+      "form": "传统膏体口红",
+      "attributeTags": [
+        "哑光"
+      ],
+      "performance": {
+        "wear": {
+          "value": null,
+          "hours": null,
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": 3,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 2,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "哑光"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p4",
+      "brand": "NARS",
+      "name": "Afterglow Lip Shine",
+      "shade": "Orgasm",
+      "major": "唇部彩妆",
+      "category": "唇蜜",
+      "price": 260,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 15,
+      "s": 58,
+      "l": 68,
+      "muted": 18,
+      "tone": "warm",
+      "colors": [
+        "珊瑚色",
+        "粉色"
+      ],
+      "textures": [
+        "高光泽",
+        "珠光",
+        "滋润"
+      ],
+      "packaging": [
+        "透明包装",
+        "现代几何"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "滋润": 4,
+        "黏腻": 3,
+        "光泽": 5,
+        "闪粉": 2,
+        "显色": 2,
+        "遮盖": 1,
+        "转移": 5,
+        "丰唇": 0,
+        "香味": null
+      },
+      "source": {
+        "label": "NARS 官方产品页（链接待在线复核）",
+        "url": "https://www.narscosmetics.com/USA/afterglow-lip-shine/999NAC0000112.html",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "高光泽产品通常更容易转移，珠光效果也受光线影响。",
+      "swatch": "#dc9380",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Afterglow Lip Shine",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "其他唇部产品",
+      "form": "唇蜜",
+      "attributeTags": [
+        "高反光",
+        "细腻珠光"
+      ],
+      "performance": {
+        "wear": {
+          "value": null,
+          "hours": null,
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": 0,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 4,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "高反光",
+          "细腻珠光"
+        ],
+        "glitter": [
+          "细腻珠光"
+        ],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p5",
+      "brand": "Charlotte Tilbury",
+      "name": "Luxury Palette",
+      "shade": "The Rock Chick",
+      "major": "眼部彩妆",
+      "category": "眼影盘",
+      "price": 460,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 220,
+      "s": 9,
+      "l": 44,
+      "muted": 72,
+      "tone": "cool",
+      "colors": [
+        "灰色",
+        "银色",
+        "黑色"
+      ],
+      "textures": [
+        "哑光",
+        "珠光",
+        "细闪"
+      ],
+      "packaging": [
+        "复古",
+        "金色金属"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "哑光": 4,
+        "珠光": 3,
+        "闪粉": 2,
+        "显色": 4,
+        "粉质": 4,
+        "飞粉": 2,
+        "晕染": 4,
+        "持妆": 4
+      },
+      "source": {
+        "label": "Charlotte Tilbury 官方产品页（链接待在线复核）",
+        "url": "https://www.charlottetilbury.com/us/product/luxury-palette-the-rock-chick",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "深色比例较高，新手需要少量叠加；价格为参考录入值。",
+      "swatch": "#6e7075",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Luxury Palette",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "眼影",
+      "form": "压盘粉状眼影",
+      "attributeTags": [
+        "眼影盘",
+        "哑光",
+        "珠光"
+      ],
+      "performance": {
+        "wear": {
+          "value": 4,
+          "hours": "8–10 小时",
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 4,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "眼影盘",
+          "哑光",
+          "珠光"
+        ],
+        "glitter": [
+          "珠光"
+        ],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p6",
+      "brand": "Natasha Denona",
+      "name": "Glam Eyeshadow Palette",
+      "shade": "15 shades",
+      "major": "眼部彩妆",
+      "category": "眼影盘",
+      "price": 570,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 28,
+      "s": 16,
+      "l": 46,
+      "muted": 62,
+      "tone": "neutral",
+      "colors": [
+        "棕色",
+        "灰色",
+        "金色"
+      ],
+      "textures": [
+        "哑光",
+        "珠光",
+        "金属"
+      ],
+      "packaging": [
+        "现代几何",
+        "极简设计"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "哑光": 4,
+        "珠光": 4,
+        "闪粉": 2,
+        "显色": 5,
+        "粉质": 5,
+        "飞粉": 2,
+        "晕染": 4,
+        "持妆": 4
+      },
+      "source": {
+        "label": "Natasha Denona 官方产品页（链接待在线复核）",
+        "url": "https://natashadenona.com/products/glam-palette",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "容量和色数较多，若已有相近中性色盘可能重复。",
+      "swatch": "#80756e",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Glam Eyeshadow Palette",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "眼影",
+      "form": "压盘粉状眼影",
+      "attributeTags": [
+        "眼影盘",
+        "哑光",
+        "金属光泽"
+      ],
+      "performance": {
+        "wear": {
+          "value": 4,
+          "hours": "8–10 小时",
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 5,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "眼影盘",
+          "哑光",
+          "金属光泽"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p7",
+      "brand": "Urban Decay",
+      "name": "24/7 Glide-On Eye Pencil",
+      "shade": "Electric Empire",
+      "major": "眼部彩妆",
+      "category": "眼线笔",
+      "price": 190,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 150,
+      "s": 47,
+      "l": 32,
+      "muted": 25,
+      "tone": "cool",
+      "colors": [
+        "绿色"
+      ],
+      "textures": [
+        "珠光",
+        "高显色",
+        "高持妆"
+      ],
+      "packaging": [
+        "艺术设计"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "哑光": 1,
+        "珠光": 4,
+        "闪粉": 2,
+        "显色": 5,
+        "粉质": null,
+        "飞粉": null,
+        "晕染": 2,
+        "持妆": 5
+      },
+      "source": {
+        "label": "Urban Decay 官方产品页（链接待在线复核）",
+        "url": "https://www.urbandecay.com/24-7-glide-on-eye-pencil/122.html",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "高饱和绿色不适合希望隐形轮廓的场景。",
+      "swatch": "#286950",
+      "img": "assets/images/product-packaging.svg",
+      "series": "24/7 Glide-On Eye Pencil",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "眼线",
+      "form": "眼线胶笔",
+      "attributeTags": [
+        "珠光",
+        "高显色"
+      ],
+      "performance": {
+        "wear": {
+          "value": 5,
+          "hours": "10–12 小时",
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "珠光",
+          "高显色"
+        ],
+        "glitter": [
+          "珠光"
+        ],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p8",
+      "brand": "NARS",
+      "name": "Blush",
+      "shade": "Orgasm",
+      "major": "面部彩妆",
+      "category": "腮红",
+      "price": 330,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 12,
+      "s": 55,
+      "l": 64,
+      "muted": 22,
+      "tone": "warm",
+      "colors": [
+        "珊瑚色",
+        "粉色",
+        "金色"
+      ],
+      "textures": [
+        "珠光",
+        "自然光泽",
+        "高显色"
+      ],
+      "packaging": [
+        "极简设计"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "晕染": 4,
+        "粉质": 4,
+        "光泽": 4,
+        "显色": 4,
+        "闪粉": 2
+      },
+      "source": {
+        "label": "NARS 官方产品页（链接待在线复核）",
+        "url": "https://www.narscosmetics.com/USA/blush/999NAC0000192.html",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "金色珠光在不同肤色和光线下存在明显差异。",
+      "swatch": "#d48678",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Blush",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "腮红",
+      "form": "粉状腮红",
+      "attributeTags": [
+        "自然光泽",
+        "珠光"
+      ],
+      "performance": {
+        "wear": {
+          "value": null,
+          "hours": null,
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": 4,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "自然光泽",
+          "珠光"
+        ],
+        "glitter": [
+          "珠光"
+        ],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p9",
+      "brand": "Rare Beauty",
+      "name": "Soft Pinch Liquid Blush",
+      "shade": "Hope",
+      "major": "面部彩妆",
+      "category": "腮红",
+      "price": 210,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 354,
+      "s": 36,
+      "l": 61,
+      "muted": 38,
+      "tone": "neutral",
+      "colors": [
+        "粉色",
+        "裸色"
+      ],
+      "textures": [
+        "液体",
+        "高显色",
+        "自然光泽"
+      ],
+      "packaging": [
+        "透明包装",
+        "现代几何"
+      ],
+      "skin": [
+        "干性",
+        "中性",
+        "混合性"
+      ],
+      "metrics": {
+        "晕染": 5,
+        "粉质": null,
+        "光泽": 3,
+        "显色": 5,
+        "闪粉": 0
+      },
+      "source": {
+        "label": "Rare Beauty 官方产品页（链接待在线复核）",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "显色度高，取量过多时较难修正。",
+      "swatch": "#bd7779",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Soft Pinch Liquid Blush",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "腮红",
+      "form": "液体腮红",
+      "attributeTags": [
+        "自然光泽"
+      ],
+      "performance": {
+        "wear": {
+          "value": null,
+          "hours": null,
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "自然光泽"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p10",
+      "brand": "Armani Beauty",
+      "name": "Luminous Silk Foundation",
+      "shade": "4.5 reference",
+      "major": "底妆",
+      "category": "粉底",
+      "price": 640,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 30,
+      "s": 35,
+      "l": 66,
+      "muted": 20,
+      "tone": "neutral",
+      "colors": [
+        "裸色"
+      ],
+      "textures": [
+        "轻薄",
+        "自然光泽",
+        "中等遮瑕"
+      ],
+      "packaging": [
+        "透明包装",
+        "黑金"
+      ],
+      "skin": [
+        "干性",
+        "中性",
+        "混合性"
+      ],
+      "metrics": {
+        "遮瑕": 3,
+        "轻薄": 5,
+        "保湿": 3,
+        "控油": 2,
+        "光泽": 4,
+        "氧化": null,
+        "持妆": 4
+      },
+      "source": {
+        "label": "Armani Beauty 官方产品页（链接待在线复核）",
+        "url": "https://www.giorgioarmanibeauty-usa.com/makeup/face/foundation/luminous-silk-foundation/A041.html",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "示例色号不构成选色建议；氧化数据未获官方量化，显示为未知。",
+      "swatch": "#d3a47e",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Luminous Silk Foundation",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "粉底",
+      "form": "粉底液",
+      "attributeTags": [
+        "自然皮肤光泽"
+      ],
+      "performance": {
+        "wear": {
+          "value": 4,
+          "hours": "8–10 小时",
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "自然皮肤光泽"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p11",
+      "brand": "Estée Lauder",
+      "name": "Double Wear Stay-in-Place Makeup",
+      "shade": "2N1 Desert Beige reference",
+      "major": "底妆",
+      "category": "粉底",
+      "price": 490,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 28,
+      "s": 37,
+      "l": 62,
+      "muted": 18,
+      "tone": "neutral",
+      "colors": [
+        "裸色"
+      ],
+      "textures": [
+        "高持妆",
+        "高遮瑕",
+        "控油"
+      ],
+      "packaging": [
+        "透明包装",
+        "金色金属"
+      ],
+      "skin": [
+        "油性",
+        "混合性",
+        "中性"
+      ],
+      "metrics": {
+        "遮瑕": 5,
+        "轻薄": 2,
+        "保湿": 1,
+        "控油": 5,
+        "光泽": 1,
+        "氧化": null,
+        "持妆": 5
+      },
+      "source": {
+        "label": "Estée Lauder 官方产品页（链接待在线复核）",
+        "url": "https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "偏干肤况需充分保湿；示例色号不能代替线下试色。",
+      "swatch": "#c99770",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Double Wear Stay-in-Place Makeup",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "粉底",
+      "form": "粉底液",
+      "attributeTags": [
+        "柔雾"
+      ],
+      "performance": {
+        "wear": {
+          "value": 5,
+          "hours": "10–12 小时",
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "柔雾"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    },
+    {
+      "id": "p12",
+      "brand": "Hourglass",
+      "name": "Vanish Airbrush Concealer",
+      "shade": "Oat reference",
+      "major": "底妆",
+      "category": "遮瑕",
+      "price": 360,
+      "currency": "CNY",
+      "priceDate": "2026-10-28",
+      "h": 31,
+      "s": 31,
+      "l": 67,
+      "muted": 24,
+      "tone": "neutral",
+      "colors": [
+        "裸色"
+      ],
+      "textures": [
+        "高遮瑕",
+        "自然妆效",
+        "高持妆"
+      ],
+      "packaging": [
+        "金色金属",
+        "现代几何"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "metrics": {
+        "遮瑕": 5,
+        "轻薄": 3,
+        "保湿": null,
+        "控油": null,
+        "光泽": 2,
+        "氧化": null,
+        "持妆": 5
+      },
+      "source": {
+        "label": "Hourglass 官方产品页（链接待在线复核）",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer",
+        "verified": "网络策略限制，未完成在线复核"
+      },
+      "downside": "保湿、控油和氧化没有可靠量化资料，需结合个人肤况试用。",
+      "swatch": "#d0a17d",
+      "img": "assets/images/product-packaging.svg",
+      "series": "Vanish Airbrush Concealer",
+      "scenes": [
+        "上课与日常",
+        "通勤"
+      ],
+      "ingredients": [],
+      "ingredientStatus": "完整成分表待核实",
+      "value": 3,
+      "productType": "遮瑕",
+      "form": "遮瑕液",
+      "attributeTags": [
+        "自然妆效"
+      ],
+      "performance": {
+        "wear": {
+          "value": 5,
+          "hours": "10–12 小时",
+          "source": "官方描述或资料待复核",
+          "confidence": "待核实"
+        },
+        "oxidation": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "film": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "transfer": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "layering": {
+          "value": null,
+          "source": "未知",
+          "confidence": "未知"
+        },
+        "comfort": {
+          "value": null,
+          "source": "资料待复核",
+          "confidence": "待核实"
+        },
+        "beginner": null,
+        "finish": [
+          "自然妆效"
+        ],
+        "glitter": [],
+        "completeness": "部分字段待核实"
+      }
+    }
+  ]
+}

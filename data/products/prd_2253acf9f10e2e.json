@@ -1,0 +1,371 @@
+{
+  "canonicalProductID": "prd_2253acf9f10e2e",
+  "brand": {
+    "originalValue": "Natasha Denona",
+    "normalizedValue": "NATASHA DENONA"
+  },
+  "productLine": {
+    "originalValue": "Glam Eyeshadow Palette",
+    "normalizedValue": "glam eyeshadow palette"
+  },
+  "name": {
+    "originalValue": "Glam Eyeshadow Palette",
+    "normalizedValue": "glam eyeshadow palette"
+  },
+  "taxonomy": {
+    "department": "eyes",
+    "category": "eyeshadow",
+    "subcategory": "palette",
+    "format": "压盘粉状眼影",
+    "formulaType": "unknown",
+    "displayDepartment": "眼部彩妆",
+    "displayCategory": "眼影",
+    "original": {
+      "department": "眼部彩妆",
+      "category": "眼影盘",
+      "subcategory": "",
+      "format": "压盘粉状眼影"
+    }
+  },
+  "description": null,
+  "finish": [
+    "matte",
+    "shimmer",
+    "metallic"
+  ],
+  "coverage": null,
+  "claims": [],
+  "performanceData": [
+    {
+      "field": "哑光",
+      "value": 4,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "珠光",
+      "value": 4,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "闪粉",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "显色",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "粉质",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "飞粉",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "晕染",
+      "value": 4,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "持妆",
+      "value": 4,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    }
+  ],
+  "ingredientLists": [],
+  "variants": [
+    {
+      "variantID": "var_711eae005bcfd7",
+      "productID": "prd_2253acf9f10e2e",
+      "shade": {
+        "shadeName": "15 shades",
+        "shadeCode": null,
+        "officialDescription": null,
+        "mainHue": 28,
+        "secondaryHue": null,
+        "hueBias": "neutral",
+        "lightness": 46,
+        "saturation": 16,
+        "mutedness": 62,
+        "temperature": "neutral",
+        "depth": null,
+        "opacity": null,
+        "finish": [
+          "matte",
+          "shimmer",
+          "metallic"
+        ],
+        "computedColor": true,
+        "swatch": "#80756e",
+        "swatchSource": "legacy_manual_record"
+      },
+      "region": "CN",
+      "prices": [
+        {
+          "priceID": "price_355f804c3ab3d7",
+          "productID": "prd_2253acf9f10e2e",
+          "variantID": "var_711eae005bcfd7",
+          "retailer": "Natasha Denona 官方产品页（链接待在线复核）",
+          "region": "CN",
+          "currency": "CNY",
+          "price": 570,
+          "salePrice": null,
+          "date": "2026-10-28",
+          "URL": "https://natashadenona.com/products/glam-palette",
+          "live": false
+        }
+      ],
+      "images": {
+        "officialPrimary": null,
+        "officialSecondary": [],
+        "officialSwatches": [],
+        "retailerImages": [],
+        "userImages": []
+      },
+      "sources": [
+        {
+          "sourceID": "legacy-curated-2026-10-28",
+          "source": "Natasha Denona 官方产品页（链接待在线复核）",
+          "sourceType": "manual_json",
+          "sourceURL": "https://natashadenona.com/products/glam-palette",
+          "retrievedAt": "2026-10-28T00:00:00Z",
+          "verifiedAt": null,
+          "region": "CN",
+          "confidence": 0.45,
+          "usagePermission": "manual_curation"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "officialPrimary": null,
+    "officialSecondary": [],
+    "officialSwatches": [],
+    "retailerImages": [],
+    "userImages": [],
+    "textureReference": null,
+    "simulatedImages": [],
+    "placeholder": "assets/images/product-packaging.svg"
+  },
+  "imageSources": [],
+  "sources": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "source": "Natasha Denona 官方产品页（链接待在线复核）",
+      "sourceType": "manual_json",
+      "sourceURL": "https://natashadenona.com/products/glam-palette",
+      "retrievedAt": "2026-10-28T00:00:00Z",
+      "verifiedAt": null,
+      "region": "CN",
+      "confidence": 0.45,
+      "usagePermission": "manual_curation"
+    }
+  ],
+  "searchTags": [
+    "棕色",
+    "灰色",
+    "金色",
+    "哑光",
+    "珠光",
+    "金属",
+    "眼影盘",
+    "金属光泽",
+    "全部肤质"
+  ],
+  "originalRecords": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "context": {
+        "adapter": "manual-json",
+        "row": 6,
+        "input": "/workspace/1/imports/seed/current-products.json"
+      },
+      "value": {
+        "id": "p6",
+        "brand": "Natasha Denona",
+        "name": "Glam Eyeshadow Palette",
+        "shade": "15 shades",
+        "major": "眼部彩妆",
+        "category": "眼影盘",
+        "price": 570,
+        "currency": "CNY",
+        "priceDate": "2026-10-28",
+        "h": 28,
+        "s": 16,
+        "l": 46,
+        "muted": 62,
+        "tone": "neutral",
+        "colors": [
+          "棕色",
+          "灰色",
+          "金色"
+        ],
+        "textures": [
+          "哑光",
+          "珠光",
+          "金属"
+        ],
+        "packaging": [
+          "现代几何",
+          "极简设计"
+        ],
+        "skin": [
+          "全部肤质"
+        ],
+        "metrics": {
+          "哑光": 4,
+          "珠光": 4,
+          "闪粉": 2,
+          "显色": 5,
+          "粉质": 5,
+          "飞粉": 2,
+          "晕染": 4,
+          "持妆": 4
+        },
+        "source": {
+          "label": "Natasha Denona 官方产品页（链接待在线复核）",
+          "url": "https://natashadenona.com/products/glam-palette",
+          "verified": "网络策略限制，未完成在线复核"
+        },
+        "downside": "容量和色数较多，若已有相近中性色盘可能重复。",
+        "swatch": "#80756e",
+        "img": "assets/images/product-packaging.svg",
+        "series": "Glam Eyeshadow Palette",
+        "scenes": [
+          "上课与日常",
+          "通勤"
+        ],
+        "ingredients": [],
+        "ingredientStatus": "完整成分表待核实",
+        "value": 3,
+        "productType": "眼影",
+        "form": "压盘粉状眼影",
+        "attributeTags": [
+          "眼影盘",
+          "哑光",
+          "金属光泽"
+        ],
+        "performance": {
+          "wear": {
+            "value": 4,
+            "hours": "8–10 小时",
+            "source": "官方描述或资料待复核",
+            "confidence": "待核实"
+          },
+          "oxidation": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "film": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "transfer": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "layering": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "comfort": {
+            "value": 5,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "beginner": null,
+          "finish": [
+            "眼影盘",
+            "哑光",
+            "金属光泽"
+          ],
+          "glitter": [],
+          "completeness": "部分字段待核实"
+        }
+      }
+    }
+  ],
+  "ui": {
+    "h": 28,
+    "s": 16,
+    "l": 46,
+    "muted": 62,
+    "tone": "neutral",
+    "colors": [
+      "棕色",
+      "灰色",
+      "金色"
+    ],
+    "textures": [
+      "哑光",
+      "珠光",
+      "金属"
+    ],
+    "packaging": [
+      "现代几何",
+      "极简设计"
+    ],
+    "skin": [
+      "全部肤质"
+    ],
+    "metrics": {
+      "哑光": 4,
+      "珠光": 4,
+      "闪粉": 2,
+      "显色": 5,
+      "粉质": 5,
+      "飞粉": 2,
+      "晕染": 4,
+      "持妆": 4
+    },
+    "downside": "容量和色数较多，若已有相近中性色盘可能重复。",
+    "swatch": "#80756e",
+    "scenes": [
+      "上课与日常",
+      "通勤"
+    ]
+  },
+  "conflicts": [],
+  "reviewFlags": [],
+  "dataCompleteness": {
+    "score": 71,
+    "sections": {
+      "basic": true,
+      "color": true,
+      "ingredients": false,
+      "performance": true,
+      "price": true,
+      "image": false,
+      "source": true
+    }
+  },
+  "status": {
+    "code": "PARTIALLY_VERIFIED",
+    "label": "PARTIALLY VERIFIED"
+  }
+}

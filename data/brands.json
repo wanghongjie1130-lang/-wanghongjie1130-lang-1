@@ -1,0 +1,88 @@
+[
+  {
+    "brandID": "brand_dfa0da1116d7c2",
+    "name": "Dior",
+    "normalizedName": "DIOR",
+    "aliases": [
+      "dior",
+      "dior beauty"
+    ]
+  },
+  {
+    "brandID": "brand_cec11f954e07b5",
+    "name": "CHANEL",
+    "normalizedName": "CHANEL",
+    "aliases": [
+      "chanel"
+    ]
+  },
+  {
+    "brandID": "brand_347ead6348e936",
+    "name": "MAC",
+    "normalizedName": "MAC",
+    "aliases": [
+      "mac",
+      "m a c"
+    ]
+  },
+  {
+    "brandID": "brand_a0773260a60602",
+    "name": "NARS",
+    "normalizedName": "NARS",
+    "aliases": [
+      "nars"
+    ]
+  },
+  {
+    "brandID": "brand_c3795ee0bfa21d",
+    "name": "Charlotte Tilbury",
+    "normalizedName": "CHARLOTTE TILBURY",
+    "aliases": [
+      "charlotte tilbury"
+    ]
+  },
+  {
+    "brandID": "brand_e7a5427aaaddc5",
+    "name": "Natasha Denona",
+    "normalizedName": "NATASHA DENONA",
+    "aliases": []
+  },
+  {
+    "brandID": "brand_4d9ca4dab586ee",
+    "name": "Urban Decay",
+    "normalizedName": "URBAN DECAY",
+    "aliases": []
+  },
+  {
+    "brandID": "brand_7ab99c82456af0",
+    "name": "Rare Beauty",
+    "normalizedName": "RARE BEAUTY",
+    "aliases": []
+  },
+  {
+    "brandID": "brand_66090d6efebad1",
+    "name": "Armani Beauty",
+    "normalizedName": "ARMANI BEAUTY",
+    "aliases": [
+      "giorgio armani beauty",
+      "armani beauty"
+    ]
+  },
+  {
+    "brandID": "brand_c61149ce76259a",
+    "name": "Estée Lauder",
+    "normalizedName": "ESTÉE LAUDER",
+    "aliases": [
+      "estee lauder",
+      "estée lauder"
+    ]
+  },
+  {
+    "brandID": "brand_f11232fc98413d",
+    "name": "Hourglass",
+    "normalizedName": "HOURGLASS",
+    "aliases": [
+      "hourglass"
+    ]
+  }
+]

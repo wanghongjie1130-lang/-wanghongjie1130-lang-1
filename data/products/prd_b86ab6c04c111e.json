@@ -1,0 +1,343 @@
+{
+  "canonicalProductID": "prd_b86ab6c04c111e",
+  "brand": {
+    "originalValue": "Urban Decay",
+    "normalizedValue": "URBAN DECAY"
+  },
+  "productLine": {
+    "originalValue": "24/7 Glide-On Eye Pencil",
+    "normalizedValue": "24 7 glide on eye pencil"
+  },
+  "name": {
+    "originalValue": "24/7 Glide-On Eye Pencil",
+    "normalizedValue": "24 7 glide on eye pencil"
+  },
+  "taxonomy": {
+    "department": "eyes",
+    "category": "eyeliner",
+    "subcategory": "eyeliner",
+    "format": "眼线胶笔",
+    "formulaType": "unknown",
+    "displayDepartment": "眼部彩妆",
+    "displayCategory": "眼线",
+    "original": {
+      "department": "眼部彩妆",
+      "category": "眼线笔",
+      "subcategory": "",
+      "format": "眼线胶笔"
+    }
+  },
+  "description": null,
+  "finish": [
+    "shimmer"
+  ],
+  "coverage": null,
+  "claims": [],
+  "performanceData": [
+    {
+      "field": "哑光",
+      "value": 1,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "珠光",
+      "value": 4,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "闪粉",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "显色",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "晕染",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "持妆",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    }
+  ],
+  "ingredientLists": [],
+  "variants": [
+    {
+      "variantID": "var_8566e91139dbc3",
+      "productID": "prd_b86ab6c04c111e",
+      "shade": {
+        "shadeName": "Electric Empire",
+        "shadeCode": null,
+        "officialDescription": null,
+        "mainHue": 150,
+        "secondaryHue": null,
+        "hueBias": "cool",
+        "lightness": 32,
+        "saturation": 47,
+        "mutedness": 25,
+        "temperature": "cool",
+        "depth": null,
+        "opacity": null,
+        "finish": [
+          "shimmer"
+        ],
+        "computedColor": true,
+        "swatch": "#286950",
+        "swatchSource": "legacy_manual_record"
+      },
+      "region": "CN",
+      "prices": [
+        {
+          "priceID": "price_ac131bf515b69a",
+          "productID": "prd_b86ab6c04c111e",
+          "variantID": "var_8566e91139dbc3",
+          "retailer": "Urban Decay 官方产品页（链接待在线复核）",
+          "region": "CN",
+          "currency": "CNY",
+          "price": 190,
+          "salePrice": null,
+          "date": "2026-10-28",
+          "URL": "https://www.urbandecay.com/24-7-glide-on-eye-pencil/122.html",
+          "live": false
+        }
+      ],
+      "images": {
+        "officialPrimary": null,
+        "officialSecondary": [],
+        "officialSwatches": [],
+        "retailerImages": [],
+        "userImages": []
+      },
+      "sources": [
+        {
+          "sourceID": "legacy-curated-2026-10-28",
+          "source": "Urban Decay 官方产品页（链接待在线复核）",
+          "sourceType": "manual_json",
+          "sourceURL": "https://www.urbandecay.com/24-7-glide-on-eye-pencil/122.html",
+          "retrievedAt": "2026-10-28T00:00:00Z",
+          "verifiedAt": null,
+          "region": "CN",
+          "confidence": 0.45,
+          "usagePermission": "manual_curation"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "officialPrimary": null,
+    "officialSecondary": [],
+    "officialSwatches": [],
+    "retailerImages": [],
+    "userImages": [],
+    "textureReference": null,
+    "simulatedImages": [],
+    "placeholder": "assets/images/product-packaging.svg"
+  },
+  "imageSources": [],
+  "sources": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "source": "Urban Decay 官方产品页（链接待在线复核）",
+      "sourceType": "manual_json",
+      "sourceURL": "https://www.urbandecay.com/24-7-glide-on-eye-pencil/122.html",
+      "retrievedAt": "2026-10-28T00:00:00Z",
+      "verifiedAt": null,
+      "region": "CN",
+      "confidence": 0.45,
+      "usagePermission": "manual_curation"
+    }
+  ],
+  "searchTags": [
+    "绿色",
+    "珠光",
+    "高显色",
+    "高持妆",
+    "全部肤质"
+  ],
+  "originalRecords": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "context": {
+        "adapter": "manual-json",
+        "row": 7,
+        "input": "/workspace/1/imports/seed/current-products.json"
+      },
+      "value": {
+        "id": "p7",
+        "brand": "Urban Decay",
+        "name": "24/7 Glide-On Eye Pencil",
+        "shade": "Electric Empire",
+        "major": "眼部彩妆",
+        "category": "眼线笔",
+        "price": 190,
+        "currency": "CNY",
+        "priceDate": "2026-10-28",
+        "h": 150,
+        "s": 47,
+        "l": 32,
+        "muted": 25,
+        "tone": "cool",
+        "colors": [
+          "绿色"
+        ],
+        "textures": [
+          "珠光",
+          "高显色",
+          "高持妆"
+        ],
+        "packaging": [
+          "艺术设计"
+        ],
+        "skin": [
+          "全部肤质"
+        ],
+        "metrics": {
+          "哑光": 1,
+          "珠光": 4,
+          "闪粉": 2,
+          "显色": 5,
+          "粉质": null,
+          "飞粉": null,
+          "晕染": 2,
+          "持妆": 5
+        },
+        "source": {
+          "label": "Urban Decay 官方产品页（链接待在线复核）",
+          "url": "https://www.urbandecay.com/24-7-glide-on-eye-pencil/122.html",
+          "verified": "网络策略限制，未完成在线复核"
+        },
+        "downside": "高饱和绿色不适合希望隐形轮廓的场景。",
+        "swatch": "#286950",
+        "img": "assets/images/product-packaging.svg",
+        "series": "24/7 Glide-On Eye Pencil",
+        "scenes": [
+          "上课与日常",
+          "通勤"
+        ],
+        "ingredients": [],
+        "ingredientStatus": "完整成分表待核实",
+        "value": 3,
+        "productType": "眼线",
+        "form": "眼线胶笔",
+        "attributeTags": [
+          "珠光",
+          "高显色"
+        ],
+        "performance": {
+          "wear": {
+            "value": 5,
+            "hours": "10–12 小时",
+            "source": "官方描述或资料待复核",
+            "confidence": "待核实"
+          },
+          "oxidation": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "film": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "transfer": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "layering": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "comfort": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "beginner": null,
+          "finish": [
+            "珠光",
+            "高显色"
+          ],
+          "glitter": [
+            "珠光"
+          ],
+          "completeness": "部分字段待核实"
+        }
+      }
+    }
+  ],
+  "ui": {
+    "h": 150,
+    "s": 47,
+    "l": 32,
+    "muted": 25,
+    "tone": "cool",
+    "colors": [
+      "绿色"
+    ],
+    "textures": [
+      "珠光",
+      "高显色",
+      "高持妆"
+    ],
+    "packaging": [
+      "艺术设计"
+    ],
+    "skin": [
+      "全部肤质"
+    ],
+    "metrics": {
+      "哑光": 1,
+      "珠光": 4,
+      "闪粉": 2,
+      "显色": 5,
+      "粉质": null,
+      "飞粉": null,
+      "晕染": 2,
+      "持妆": 5
+    },
+    "downside": "高饱和绿色不适合希望隐形轮廓的场景。",
+    "swatch": "#286950",
+    "scenes": [
+      "上课与日常",
+      "通勤"
+    ]
+  },
+  "conflicts": [],
+  "reviewFlags": [],
+  "dataCompleteness": {
+    "score": 71,
+    "sections": {
+      "basic": true,
+      "color": true,
+      "ingredients": false,
+      "performance": true,
+      "price": true,
+      "image": false,
+      "source": true
+    }
+  },
+  "status": {
+    "code": "PARTIALLY_VERIFIED",
+    "label": "PARTIALLY VERIFIED"
+  }
+}

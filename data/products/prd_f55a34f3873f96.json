@@ -1,0 +1,346 @@
+{
+  "canonicalProductID": "prd_f55a34f3873f96",
+  "brand": {
+    "originalValue": "Estée Lauder",
+    "normalizedValue": "ESTÉE LAUDER"
+  },
+  "productLine": {
+    "originalValue": "Double Wear Stay-in-Place Makeup",
+    "normalizedValue": "double wear stay in place makeup"
+  },
+  "name": {
+    "originalValue": "Double Wear Stay-in-Place Makeup",
+    "normalizedValue": "double wear stay in place makeup"
+  },
+  "taxonomy": {
+    "department": "complexion",
+    "category": "foundation",
+    "subcategory": "foundation",
+    "format": "粉底液",
+    "formulaType": "unknown",
+    "displayDepartment": "底妆",
+    "displayCategory": "粉底",
+    "original": {
+      "department": "底妆",
+      "category": "粉底",
+      "subcategory": "",
+      "format": "粉底液"
+    }
+  },
+  "description": null,
+  "finish": [
+    "soft_matte"
+  ],
+  "coverage": null,
+  "claims": [],
+  "performanceData": [
+    {
+      "field": "遮瑕",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "轻薄",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "保湿",
+      "value": 1,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "控油",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "光泽",
+      "value": 1,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "持妆",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    }
+  ],
+  "ingredientLists": [],
+  "variants": [
+    {
+      "variantID": "var_4d6fdab4ca4b50",
+      "productID": "prd_f55a34f3873f96",
+      "shade": {
+        "shadeName": "2N1 Desert Beige reference",
+        "shadeCode": null,
+        "officialDescription": null,
+        "mainHue": 28,
+        "secondaryHue": null,
+        "hueBias": "neutral",
+        "lightness": 62,
+        "saturation": 37,
+        "mutedness": 18,
+        "temperature": "neutral",
+        "depth": null,
+        "opacity": null,
+        "finish": [
+          "soft_matte"
+        ],
+        "computedColor": true,
+        "swatch": "#c99770",
+        "swatchSource": "legacy_manual_record"
+      },
+      "region": "CN",
+      "prices": [
+        {
+          "priceID": "price_2d94bf8846d3d7",
+          "productID": "prd_f55a34f3873f96",
+          "variantID": "var_4d6fdab4ca4b50",
+          "retailer": "Estée Lauder 官方产品页（链接待在线复核）",
+          "region": "CN",
+          "currency": "CNY",
+          "price": 490,
+          "salePrice": null,
+          "date": "2026-10-28",
+          "URL": "https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup",
+          "live": false
+        }
+      ],
+      "images": {
+        "officialPrimary": null,
+        "officialSecondary": [],
+        "officialSwatches": [],
+        "retailerImages": [],
+        "userImages": []
+      },
+      "sources": [
+        {
+          "sourceID": "legacy-curated-2026-10-28",
+          "source": "Estée Lauder 官方产品页（链接待在线复核）",
+          "sourceType": "manual_json",
+          "sourceURL": "https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup",
+          "retrievedAt": "2026-10-28T00:00:00Z",
+          "verifiedAt": null,
+          "region": "CN",
+          "confidence": 0.45,
+          "usagePermission": "manual_curation"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "officialPrimary": null,
+    "officialSecondary": [],
+    "officialSwatches": [],
+    "retailerImages": [],
+    "userImages": [],
+    "textureReference": null,
+    "simulatedImages": [],
+    "placeholder": "assets/images/product-packaging.svg"
+  },
+  "imageSources": [],
+  "sources": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "source": "Estée Lauder 官方产品页（链接待在线复核）",
+      "sourceType": "manual_json",
+      "sourceURL": "https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup",
+      "retrievedAt": "2026-10-28T00:00:00Z",
+      "verifiedAt": null,
+      "region": "CN",
+      "confidence": 0.45,
+      "usagePermission": "manual_curation"
+    }
+  ],
+  "searchTags": [
+    "裸色",
+    "高持妆",
+    "高遮瑕",
+    "控油",
+    "柔雾",
+    "油性",
+    "混合性",
+    "中性"
+  ],
+  "originalRecords": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "context": {
+        "adapter": "manual-json",
+        "row": 11,
+        "input": "/workspace/1/imports/seed/current-products.json"
+      },
+      "value": {
+        "id": "p11",
+        "brand": "Estée Lauder",
+        "name": "Double Wear Stay-in-Place Makeup",
+        "shade": "2N1 Desert Beige reference",
+        "major": "底妆",
+        "category": "粉底",
+        "price": 490,
+        "currency": "CNY",
+        "priceDate": "2026-10-28",
+        "h": 28,
+        "s": 37,
+        "l": 62,
+        "muted": 18,
+        "tone": "neutral",
+        "colors": [
+          "裸色"
+        ],
+        "textures": [
+          "高持妆",
+          "高遮瑕",
+          "控油"
+        ],
+        "packaging": [
+          "透明包装",
+          "金色金属"
+        ],
+        "skin": [
+          "油性",
+          "混合性",
+          "中性"
+        ],
+        "metrics": {
+          "遮瑕": 5,
+          "轻薄": 2,
+          "保湿": 1,
+          "控油": 5,
+          "光泽": 1,
+          "氧化": null,
+          "持妆": 5
+        },
+        "source": {
+          "label": "Estée Lauder 官方产品页（链接待在线复核）",
+          "url": "https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup",
+          "verified": "网络策略限制，未完成在线复核"
+        },
+        "downside": "偏干肤况需充分保湿；示例色号不能代替线下试色。",
+        "swatch": "#c99770",
+        "img": "assets/images/product-packaging.svg",
+        "series": "Double Wear Stay-in-Place Makeup",
+        "scenes": [
+          "上课与日常",
+          "通勤"
+        ],
+        "ingredients": [],
+        "ingredientStatus": "完整成分表待核实",
+        "value": 3,
+        "productType": "粉底",
+        "form": "粉底液",
+        "attributeTags": [
+          "柔雾"
+        ],
+        "performance": {
+          "wear": {
+            "value": 5,
+            "hours": "10–12 小时",
+            "source": "官方描述或资料待复核",
+            "confidence": "待核实"
+          },
+          "oxidation": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "film": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "transfer": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "layering": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "comfort": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "beginner": null,
+          "finish": [
+            "柔雾"
+          ],
+          "glitter": [],
+          "completeness": "部分字段待核实"
+        }
+      }
+    }
+  ],
+  "ui": {
+    "h": 28,
+    "s": 37,
+    "l": 62,
+    "muted": 18,
+    "tone": "neutral",
+    "colors": [
+      "裸色"
+    ],
+    "textures": [
+      "高持妆",
+      "高遮瑕",
+      "控油"
+    ],
+    "packaging": [
+      "透明包装",
+      "金色金属"
+    ],
+    "skin": [
+      "油性",
+      "混合性",
+      "中性"
+    ],
+    "metrics": {
+      "遮瑕": 5,
+      "轻薄": 2,
+      "保湿": 1,
+      "控油": 5,
+      "光泽": 1,
+      "氧化": null,
+      "持妆": 5
+    },
+    "downside": "偏干肤况需充分保湿；示例色号不能代替线下试色。",
+    "swatch": "#c99770",
+    "scenes": [
+      "上课与日常",
+      "通勤"
+    ]
+  },
+  "conflicts": [],
+  "reviewFlags": [],
+  "dataCompleteness": {
+    "score": 71,
+    "sections": {
+      "basic": true,
+      "color": true,
+      "ingredients": false,
+      "performance": true,
+      "price": true,
+      "image": false,
+      "source": true
+    }
+  },
+  "status": {
+    "code": "PARTIALLY_VERIFIED",
+    "label": "PARTIALLY VERIFIED"
+  }
+}

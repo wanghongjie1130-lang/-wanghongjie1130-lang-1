@@ -1,0 +1,545 @@
+[
+  {
+    "variantID": "var_ea4df4b72815f1",
+    "productID": "prd_e4da4237492932",
+    "shade": {
+      "shadeName": "100 Nude Look Velvet",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 22,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 53,
+      "saturation": 28,
+      "mutedness": 48,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "soft_matte"
+      ],
+      "computedColor": true,
+      "swatch": "#9f655c",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Dior 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.dior.cn/zh_cn/beauty/products/rouge-dior-lipstick",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_c25332981be95c",
+    "productID": "prd_2242e83a1284ad",
+    "shade": {
+      "shadeName": "918 My Rose",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 350,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 66,
+      "saturation": 35,
+      "mutedness": 35,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "natural_glow"
+      ],
+      "computedColor": true,
+      "swatch": "#c88787",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "CHANEL 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.chanel.com/cn/makeup/p/171918/rouge-coco-baume-hydrating-beautifying-tinted-lip-balm/",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_40c1d8d1f0a79f",
+    "productID": "prd_3c1cd02816e98e",
+    "shade": {
+      "shadeName": "Velvet Teddy",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 16,
+      "secondaryHue": null,
+      "hueBias": "warm",
+      "lightness": 48,
+      "saturation": 35,
+      "mutedness": 45,
+      "temperature": "warm",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "matte"
+      ],
+      "computedColor": true,
+      "swatch": "#98625b",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "MAC 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.maccosmetics.com/product/13854/123863/products/makeup/lips/lipstick/macximal-silky-matte-lipstick",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_fd65901e5757f2",
+    "productID": "prd_93570d55d72b99",
+    "shade": {
+      "shadeName": "Orgasm",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 15,
+      "secondaryHue": null,
+      "hueBias": "warm",
+      "lightness": 68,
+      "saturation": 58,
+      "mutedness": 18,
+      "temperature": "warm",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "glossy",
+        "shimmer"
+      ],
+      "computedColor": true,
+      "swatch": "#dc9380",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "NARS 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.narscosmetics.com/USA/afterglow-lip-shine/999NAC0000112.html",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_3c6e10695793a9",
+    "productID": "prd_809ebd26609481",
+    "shade": {
+      "shadeName": "The Rock Chick",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 220,
+      "secondaryHue": null,
+      "hueBias": "cool",
+      "lightness": 44,
+      "saturation": 9,
+      "mutedness": 72,
+      "temperature": "cool",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "matte",
+        "shimmer"
+      ],
+      "computedColor": true,
+      "swatch": "#6e7075",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Charlotte Tilbury 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.charlottetilbury.com/us/product/luxury-palette-the-rock-chick",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_711eae005bcfd7",
+    "productID": "prd_2253acf9f10e2e",
+    "shade": {
+      "shadeName": "15 shades",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 28,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 46,
+      "saturation": 16,
+      "mutedness": 62,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "matte",
+        "shimmer",
+        "metallic"
+      ],
+      "computedColor": true,
+      "swatch": "#80756e",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Natasha Denona 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://natashadenona.com/products/glam-palette",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_8566e91139dbc3",
+    "productID": "prd_b86ab6c04c111e",
+    "shade": {
+      "shadeName": "Electric Empire",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 150,
+      "secondaryHue": null,
+      "hueBias": "cool",
+      "lightness": 32,
+      "saturation": 47,
+      "mutedness": 25,
+      "temperature": "cool",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "shimmer"
+      ],
+      "computedColor": true,
+      "swatch": "#286950",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Urban Decay 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.urbandecay.com/24-7-glide-on-eye-pencil/122.html",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_9b0da7865a463a",
+    "productID": "prd_1a465019d6de63",
+    "shade": {
+      "shadeName": "Orgasm",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 12,
+      "secondaryHue": null,
+      "hueBias": "warm",
+      "lightness": 64,
+      "saturation": 55,
+      "mutedness": 22,
+      "temperature": "warm",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "shimmer",
+        "natural_glow"
+      ],
+      "computedColor": true,
+      "swatch": "#d48678",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "NARS 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.narscosmetics.com/USA/blush/999NAC0000192.html",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_0a1e8199725f2c",
+    "productID": "prd_4e20e120ae4c97",
+    "shade": {
+      "shadeName": "Hope",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 354,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 61,
+      "saturation": 36,
+      "mutedness": 38,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "natural_glow"
+      ],
+      "computedColor": true,
+      "swatch": "#bd7779",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Rare Beauty 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_18526a5a6b1c30",
+    "productID": "prd_1d13a62c6596a0",
+    "shade": {
+      "shadeName": "4.5 reference",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 30,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 66,
+      "saturation": 35,
+      "mutedness": 20,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "natural_glow"
+      ],
+      "computedColor": true,
+      "swatch": "#d3a47e",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Armani Beauty 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.giorgioarmanibeauty-usa.com/makeup/face/foundation/luminous-silk-foundation/A041.html",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_4d6fdab4ca4b50",
+    "productID": "prd_f55a34f3873f96",
+    "shade": {
+      "shadeName": "2N1 Desert Beige reference",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 28,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 62,
+      "saturation": 37,
+      "mutedness": 18,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [
+        "soft_matte"
+      ],
+      "computedColor": true,
+      "swatch": "#c99770",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Estée Lauder 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  },
+  {
+    "variantID": "var_cc5027affae8af",
+    "productID": "prd_1ad11d6fffb3e1",
+    "shade": {
+      "shadeName": "Oat reference",
+      "shadeCode": null,
+      "officialDescription": null,
+      "mainHue": 31,
+      "secondaryHue": null,
+      "hueBias": "neutral",
+      "lightness": 67,
+      "saturation": 31,
+      "mutedness": 24,
+      "temperature": "neutral",
+      "depth": null,
+      "opacity": null,
+      "finish": [],
+      "computedColor": true,
+      "swatch": "#d0a17d",
+      "swatchSource": "legacy_manual_record"
+    },
+    "region": "CN",
+    "images": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": []
+    },
+    "sources": [
+      {
+        "sourceID": "legacy-curated-2026-10-28",
+        "source": "Hourglass 官方产品页（链接待在线复核）",
+        "sourceType": "manual_json",
+        "sourceURL": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer",
+        "retrievedAt": "2026-10-28T00:00:00Z",
+        "verifiedAt": null,
+        "region": "CN",
+        "confidence": 0.45,
+        "usagePermission": "manual_curation"
+      }
+    ]
+  }
+]

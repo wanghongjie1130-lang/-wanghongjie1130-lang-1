@@ -1,0 +1,3 @@
+const allowedRegions=new Set(["eyes","lips","cheeks","complexion","face-edit"]);
+export function validateMaskMetadata(metadata={}){const regions=Array.isArray(metadata.regions)?metadata.regions:[],invalid=regions.filter(region=>!allowedRegions.has(region));return {valid:invalid.length===0&&regions.length>0,regions,invalid,feathered:Boolean(metadata.feathered),landmarksSupplied:Boolean(metadata.landmarksSupplied)}}
+export function maskServiceStatus(){return {implemented:true,execution:"client-side before upload",provider:"MediaPipe Face Landmarker",landmarks:478,regions:["eyes","lips","cheeks","complexion","face-edit"],requirement:"POST requests must include a feathered PNG mask and valid landmark metadata."}}

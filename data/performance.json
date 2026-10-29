@@ -1,0 +1,642 @@
+[
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "滋润",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "黏腻",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "光泽",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "闪粉",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "显色",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "遮盖",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "转移",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "丰唇",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_e4da4237492932",
+    "field": "香味",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "滋润",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "黏腻",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "光泽",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "闪粉",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "显色",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "遮盖",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "转移",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2242e83a1284ad",
+    "field": "丰唇",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "滋润",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "黏腻",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "光泽",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "闪粉",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "显色",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "遮盖",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "转移",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_3c1cd02816e98e",
+    "field": "丰唇",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "滋润",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "黏腻",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "光泽",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "闪粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "显色",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "遮盖",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "转移",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_93570d55d72b99",
+    "field": "丰唇",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "哑光",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "珠光",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "闪粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "显色",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "粉质",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "飞粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "晕染",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_809ebd26609481",
+    "field": "持妆",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "哑光",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "珠光",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "闪粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "显色",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "粉质",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "飞粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "晕染",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_2253acf9f10e2e",
+    "field": "持妆",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_b86ab6c04c111e",
+    "field": "哑光",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_b86ab6c04c111e",
+    "field": "珠光",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_b86ab6c04c111e",
+    "field": "闪粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_b86ab6c04c111e",
+    "field": "显色",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_b86ab6c04c111e",
+    "field": "晕染",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_b86ab6c04c111e",
+    "field": "持妆",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1a465019d6de63",
+    "field": "晕染",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1a465019d6de63",
+    "field": "粉质",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1a465019d6de63",
+    "field": "光泽",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1a465019d6de63",
+    "field": "显色",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1a465019d6de63",
+    "field": "闪粉",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_4e20e120ae4c97",
+    "field": "晕染",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_4e20e120ae4c97",
+    "field": "光泽",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_4e20e120ae4c97",
+    "field": "显色",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_4e20e120ae4c97",
+    "field": "闪粉",
+    "value": 0,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1d13a62c6596a0",
+    "field": "遮瑕",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1d13a62c6596a0",
+    "field": "轻薄",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1d13a62c6596a0",
+    "field": "保湿",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1d13a62c6596a0",
+    "field": "控油",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1d13a62c6596a0",
+    "field": "光泽",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1d13a62c6596a0",
+    "field": "持妆",
+    "value": 4,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_f55a34f3873f96",
+    "field": "遮瑕",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_f55a34f3873f96",
+    "field": "轻薄",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_f55a34f3873f96",
+    "field": "保湿",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_f55a34f3873f96",
+    "field": "控油",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_f55a34f3873f96",
+    "field": "光泽",
+    "value": 1,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_f55a34f3873f96",
+    "field": "持妆",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1ad11d6fffb3e1",
+    "field": "遮瑕",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1ad11d6fffb3e1",
+    "field": "轻薄",
+    "value": 3,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1ad11d6fffb3e1",
+    "field": "光泽",
+    "value": 2,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  },
+  {
+    "productID": "prd_1ad11d6fffb3e1",
+    "field": "持妆",
+    "value": 5,
+    "sourceType": "legacy_unverified",
+    "sourceID": "legacy-curated-2026-10-28",
+    "confidence": 0.35
+  }
+]

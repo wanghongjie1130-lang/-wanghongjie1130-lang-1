@@ -1,0 +1,13 @@
+[
+  {
+    "adapter": "manual-json",
+    "source": "Current curated records",
+    "date": "2026-10-29T13:44:55.013Z",
+    "itemsFound": 12,
+    "itemsAdded": 12,
+    "itemsUpdated": 0,
+    "duplicates": 0,
+    "errors": 0,
+    "status": "SUCCESS"
+  }
+]

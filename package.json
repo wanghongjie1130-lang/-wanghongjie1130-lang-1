@@ -1,0 +1,10 @@
+{
+  "name": "se-vouloir-belle-data-platform",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data:build": "node scripts/pipeline.mjs",
+    "data:validate": "node scripts/validate-output.mjs",
+    "data:test": "node --test tests/*.test.mjs"
+  }
+}

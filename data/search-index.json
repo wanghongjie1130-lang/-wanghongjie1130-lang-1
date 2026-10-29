@@ -1,0 +1,239 @@
+[
+  {
+    "id": "prd_e4da4237492932",
+    "tokens": [
+      "dior",
+      "rouge dior",
+      "lips",
+      "lip color",
+      "lipstick",
+      "传统膏体口红",
+      "soft matte",
+      "100 nude look velvet",
+      "裸色",
+      "棕色",
+      "柔雾",
+      "高显色",
+      "高遮盖",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_2242e83a1284ad",
+    "tokens": [
+      "chanel",
+      "rouge coco baume",
+      "lips",
+      "lip care",
+      "lip balm",
+      "有色润唇膏",
+      "natural glow",
+      "918 my rose",
+      "粉色",
+      "裸色",
+      "滋润",
+      "轻薄",
+      "自然光泽",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_3c1cd02816e98e",
+    "tokens": [
+      "mac",
+      "macximal silky matte lipstick",
+      "lips",
+      "lip color",
+      "lipstick",
+      "传统膏体口红",
+      "matte",
+      "velvet teddy",
+      "裸色",
+      "棕色",
+      "哑光",
+      "高显色",
+      "高遮盖",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_93570d55d72b99",
+    "tokens": [
+      "nars",
+      "afterglow lip shine",
+      "lips",
+      "lip color",
+      "lip gloss",
+      "唇蜜",
+      "glossy",
+      "shimmer",
+      "orgasm",
+      "珊瑚色",
+      "粉色",
+      "高光泽",
+      "珠光",
+      "滋润",
+      "高反光",
+      "细腻珠光",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_809ebd26609481",
+    "tokens": [
+      "charlotte tilbury",
+      "luxury palette",
+      "eyes",
+      "eyeshadow",
+      "palette",
+      "压盘粉状眼影",
+      "matte",
+      "shimmer",
+      "the rock chick",
+      "灰色",
+      "银色",
+      "黑色",
+      "哑光",
+      "珠光",
+      "细闪",
+      "眼影盘",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_2253acf9f10e2e",
+    "tokens": [
+      "natasha denona",
+      "glam eyeshadow palette",
+      "eyes",
+      "eyeshadow",
+      "palette",
+      "压盘粉状眼影",
+      "matte",
+      "shimmer",
+      "metallic",
+      "15 shades",
+      "棕色",
+      "灰色",
+      "金色",
+      "哑光",
+      "珠光",
+      "金属",
+      "眼影盘",
+      "金属光泽",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_b86ab6c04c111e",
+    "tokens": [
+      "urban decay",
+      "24 7 glide on eye pencil",
+      "eyes",
+      "eyeliner",
+      "眼线胶笔",
+      "shimmer",
+      "electric empire",
+      "绿色",
+      "珠光",
+      "高显色",
+      "高持妆",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_1a465019d6de63",
+    "tokens": [
+      "nars",
+      "blush",
+      "face",
+      "粉状腮红",
+      "shimmer",
+      "natural glow",
+      "orgasm",
+      "珊瑚色",
+      "粉色",
+      "金色",
+      "珠光",
+      "自然光泽",
+      "高显色",
+      "全部肤质"
+    ]
+  },
+  {
+    "id": "prd_4e20e120ae4c97",
+    "tokens": [
+      "rare beauty",
+      "soft pinch liquid blush",
+      "face",
+      "blush",
+      "液体腮红",
+      "natural glow",
+      "hope",
+      "粉色",
+      "裸色",
+      "液体",
+      "高显色",
+      "自然光泽",
+      "干性",
+      "中性",
+      "混合性"
+    ]
+  },
+  {
+    "id": "prd_1d13a62c6596a0",
+    "tokens": [
+      "armani beauty",
+      "luminous silk foundation",
+      "complexion",
+      "foundation",
+      "粉底液",
+      "natural glow",
+      "45 reference",
+      "裸色",
+      "轻薄",
+      "自然光泽",
+      "中等遮瑕",
+      "自然皮肤光泽",
+      "干性",
+      "中性",
+      "混合性"
+    ]
+  },
+  {
+    "id": "prd_f55a34f3873f96",
+    "tokens": [
+      "este e lauder",
+      "double wear stay in place makeup",
+      "complexion",
+      "foundation",
+      "粉底液",
+      "soft matte",
+      "2n1 desert beige reference",
+      "裸色",
+      "高持妆",
+      "高遮瑕",
+      "控油",
+      "柔雾",
+      "油性",
+      "混合性",
+      "中性"
+    ]
+  },
+  {
+    "id": "prd_1ad11d6fffb3e1",
+    "tokens": [
+      "hourglass",
+      "vanish airbrush concealer",
+      "complexion",
+      "concealer",
+      "遮瑕液",
+      "oat reference",
+      "裸色",
+      "高遮瑕",
+      "自然妆效",
+      "高持妆",
+      "全部肤质"
+    ]
+  }
+]

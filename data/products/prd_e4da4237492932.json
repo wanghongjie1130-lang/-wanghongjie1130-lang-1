@@ -1,0 +1,367 @@
+{
+  "canonicalProductID": "prd_e4da4237492932",
+  "brand": {
+    "originalValue": "Dior",
+    "normalizedValue": "DIOR"
+  },
+  "productLine": {
+    "originalValue": "Rouge Dior",
+    "normalizedValue": "rouge dior"
+  },
+  "name": {
+    "originalValue": "Rouge Dior",
+    "normalizedValue": "rouge dior"
+  },
+  "taxonomy": {
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lipstick",
+    "format": "传统膏体口红",
+    "formulaType": "unknown",
+    "displayDepartment": "唇部彩妆",
+    "displayCategory": "口红",
+    "original": {
+      "department": "唇部彩妆",
+      "category": "口红",
+      "subcategory": "",
+      "format": "传统膏体口红"
+    }
+  },
+  "description": null,
+  "finish": [
+    "soft_matte"
+  ],
+  "coverage": null,
+  "claims": [],
+  "performanceData": [
+    {
+      "field": "滋润",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "黏腻",
+      "value": 1,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "光泽",
+      "value": 1,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "闪粉",
+      "value": 0,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "显色",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "遮盖",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "转移",
+      "value": 3,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "丰唇",
+      "value": 0,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "香味",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    }
+  ],
+  "ingredientLists": [],
+  "variants": [
+    {
+      "variantID": "var_ea4df4b72815f1",
+      "productID": "prd_e4da4237492932",
+      "shade": {
+        "shadeName": "100 Nude Look Velvet",
+        "shadeCode": null,
+        "officialDescription": null,
+        "mainHue": 22,
+        "secondaryHue": null,
+        "hueBias": "neutral",
+        "lightness": 53,
+        "saturation": 28,
+        "mutedness": 48,
+        "temperature": "neutral",
+        "depth": null,
+        "opacity": null,
+        "finish": [
+          "soft_matte"
+        ],
+        "computedColor": true,
+        "swatch": "#9f655c",
+        "swatchSource": "legacy_manual_record"
+      },
+      "region": "CN",
+      "prices": [
+        {
+          "priceID": "price_4247dc7b647227",
+          "productID": "prd_e4da4237492932",
+          "variantID": "var_ea4df4b72815f1",
+          "retailer": "Dior 官方产品页（链接待在线复核）",
+          "region": "CN",
+          "currency": "CNY",
+          "price": 390,
+          "salePrice": null,
+          "date": "2026-10-28",
+          "URL": "https://www.dior.cn/zh_cn/beauty/products/rouge-dior-lipstick",
+          "live": false
+        }
+      ],
+      "images": {
+        "officialPrimary": null,
+        "officialSecondary": [],
+        "officialSwatches": [],
+        "retailerImages": [],
+        "userImages": []
+      },
+      "sources": [
+        {
+          "sourceID": "legacy-curated-2026-10-28",
+          "source": "Dior 官方产品页（链接待在线复核）",
+          "sourceType": "manual_json",
+          "sourceURL": "https://www.dior.cn/zh_cn/beauty/products/rouge-dior-lipstick",
+          "retrievedAt": "2026-10-28T00:00:00Z",
+          "verifiedAt": null,
+          "region": "CN",
+          "confidence": 0.45,
+          "usagePermission": "manual_curation"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "officialPrimary": null,
+    "officialSecondary": [],
+    "officialSwatches": [],
+    "retailerImages": [],
+    "userImages": [],
+    "textureReference": null,
+    "simulatedImages": [],
+    "placeholder": "assets/images/product-packaging.svg"
+  },
+  "imageSources": [],
+  "sources": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "source": "Dior 官方产品页（链接待在线复核）",
+      "sourceType": "manual_json",
+      "sourceURL": "https://www.dior.cn/zh_cn/beauty/products/rouge-dior-lipstick",
+      "retrievedAt": "2026-10-28T00:00:00Z",
+      "verifiedAt": null,
+      "region": "CN",
+      "confidence": 0.45,
+      "usagePermission": "manual_curation"
+    }
+  ],
+  "searchTags": [
+    "裸色",
+    "棕色",
+    "柔雾",
+    "高显色",
+    "高遮盖",
+    "全部肤质"
+  ],
+  "originalRecords": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "context": {
+        "adapter": "manual-json",
+        "row": 1,
+        "input": "/workspace/1/imports/seed/current-products.json"
+      },
+      "value": {
+        "id": "p1",
+        "brand": "Dior",
+        "name": "Rouge Dior",
+        "shade": "100 Nude Look Velvet",
+        "major": "唇部彩妆",
+        "category": "口红",
+        "price": 390,
+        "currency": "CNY",
+        "priceDate": "2026-10-28",
+        "h": 22,
+        "s": 28,
+        "l": 53,
+        "muted": 48,
+        "tone": "neutral",
+        "colors": [
+          "裸色",
+          "棕色"
+        ],
+        "textures": [
+          "柔雾",
+          "高显色",
+          "高遮盖"
+        ],
+        "packaging": [
+          "金色金属",
+          "可替换外壳"
+        ],
+        "skin": [
+          "全部肤质"
+        ],
+        "metrics": {
+          "滋润": 2,
+          "黏腻": 1,
+          "光泽": 1,
+          "闪粉": 0,
+          "显色": 5,
+          "遮盖": 5,
+          "转移": 3,
+          "丰唇": 0,
+          "香味": 2
+        },
+        "source": {
+          "label": "Dior 官方产品页（链接待在线复核）",
+          "url": "https://www.dior.cn/zh_cn/beauty/products/rouge-dior-lipstick",
+          "verified": "网络策略限制，未完成在线复核"
+        },
+        "downside": "柔雾质地可能放大干燥唇纹；香味与配方请以购买地页面为准。",
+        "swatch": "#9f655c",
+        "img": "assets/images/product-packaging.svg",
+        "series": "Rouge Dior",
+        "scenes": [
+          "上课与日常",
+          "通勤"
+        ],
+        "ingredients": [],
+        "ingredientStatus": "完整成分表待核实",
+        "value": 3,
+        "productType": "口红",
+        "form": "传统膏体口红",
+        "attributeTags": [
+          "柔雾"
+        ],
+        "performance": {
+          "wear": {
+            "value": null,
+            "hours": null,
+            "source": "官方描述或资料待复核",
+            "confidence": "待核实"
+          },
+          "oxidation": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "film": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "transfer": {
+            "value": 2,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "layering": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "comfort": {
+            "value": 2,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "beginner": null,
+          "finish": [
+            "柔雾"
+          ],
+          "glitter": [],
+          "completeness": "部分字段待核实"
+        }
+      }
+    }
+  ],
+  "ui": {
+    "h": 22,
+    "s": 28,
+    "l": 53,
+    "muted": 48,
+    "tone": "neutral",
+    "colors": [
+      "裸色",
+      "棕色"
+    ],
+    "textures": [
+      "柔雾",
+      "高显色",
+      "高遮盖"
+    ],
+    "packaging": [
+      "金色金属",
+      "可替换外壳"
+    ],
+    "skin": [
+      "全部肤质"
+    ],
+    "metrics": {
+      "滋润": 2,
+      "黏腻": 1,
+      "光泽": 1,
+      "闪粉": 0,
+      "显色": 5,
+      "遮盖": 5,
+      "转移": 3,
+      "丰唇": 0,
+      "香味": 2
+    },
+    "downside": "柔雾质地可能放大干燥唇纹；香味与配方请以购买地页面为准。",
+    "swatch": "#9f655c",
+    "scenes": [
+      "上课与日常",
+      "通勤"
+    ]
+  },
+  "conflicts": [],
+  "reviewFlags": [],
+  "dataCompleteness": {
+    "score": 71,
+    "sections": {
+      "basic": true,
+      "color": true,
+      "ingredients": false,
+      "performance": true,
+      "price": true,
+      "image": false,
+      "source": true
+    }
+  },
+  "status": {
+    "code": "PARTIALLY_VERIFIED",
+    "label": "PARTIALLY VERIFIED"
+  }
+}

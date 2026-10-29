@@ -1,0 +1,368 @@
+{
+  "canonicalProductID": "prd_93570d55d72b99",
+  "brand": {
+    "originalValue": "NARS",
+    "normalizedValue": "NARS"
+  },
+  "productLine": {
+    "originalValue": "Afterglow Lip Shine",
+    "normalizedValue": "afterglow lip shine"
+  },
+  "name": {
+    "originalValue": "Afterglow Lip Shine",
+    "normalizedValue": "afterglow lip shine"
+  },
+  "taxonomy": {
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lip_gloss",
+    "format": "唇蜜",
+    "formulaType": "unknown",
+    "displayDepartment": "唇部彩妆",
+    "displayCategory": "口红",
+    "original": {
+      "department": "唇部彩妆",
+      "category": "唇蜜",
+      "subcategory": "",
+      "format": "唇蜜"
+    }
+  },
+  "description": null,
+  "finish": [
+    "glossy",
+    "shimmer"
+  ],
+  "coverage": null,
+  "claims": [],
+  "performanceData": [
+    {
+      "field": "滋润",
+      "value": 4,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "黏腻",
+      "value": 3,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "光泽",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "闪粉",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "显色",
+      "value": 2,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "遮盖",
+      "value": 1,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "转移",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "丰唇",
+      "value": 0,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    }
+  ],
+  "ingredientLists": [],
+  "variants": [
+    {
+      "variantID": "var_fd65901e5757f2",
+      "productID": "prd_93570d55d72b99",
+      "shade": {
+        "shadeName": "Orgasm",
+        "shadeCode": null,
+        "officialDescription": null,
+        "mainHue": 15,
+        "secondaryHue": null,
+        "hueBias": "warm",
+        "lightness": 68,
+        "saturation": 58,
+        "mutedness": 18,
+        "temperature": "warm",
+        "depth": null,
+        "opacity": null,
+        "finish": [
+          "glossy",
+          "shimmer"
+        ],
+        "computedColor": true,
+        "swatch": "#dc9380",
+        "swatchSource": "legacy_manual_record"
+      },
+      "region": "CN",
+      "prices": [
+        {
+          "priceID": "price_ef2a73ff3d5ec9",
+          "productID": "prd_93570d55d72b99",
+          "variantID": "var_fd65901e5757f2",
+          "retailer": "NARS 官方产品页（链接待在线复核）",
+          "region": "CN",
+          "currency": "CNY",
+          "price": 260,
+          "salePrice": null,
+          "date": "2026-10-28",
+          "URL": "https://www.narscosmetics.com/USA/afterglow-lip-shine/999NAC0000112.html",
+          "live": false
+        }
+      ],
+      "images": {
+        "officialPrimary": null,
+        "officialSecondary": [],
+        "officialSwatches": [],
+        "retailerImages": [],
+        "userImages": []
+      },
+      "sources": [
+        {
+          "sourceID": "legacy-curated-2026-10-28",
+          "source": "NARS 官方产品页（链接待在线复核）",
+          "sourceType": "manual_json",
+          "sourceURL": "https://www.narscosmetics.com/USA/afterglow-lip-shine/999NAC0000112.html",
+          "retrievedAt": "2026-10-28T00:00:00Z",
+          "verifiedAt": null,
+          "region": "CN",
+          "confidence": 0.45,
+          "usagePermission": "manual_curation"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "officialPrimary": null,
+    "officialSecondary": [],
+    "officialSwatches": [],
+    "retailerImages": [],
+    "userImages": [],
+    "textureReference": null,
+    "simulatedImages": [],
+    "placeholder": "assets/images/product-packaging.svg"
+  },
+  "imageSources": [],
+  "sources": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "source": "NARS 官方产品页（链接待在线复核）",
+      "sourceType": "manual_json",
+      "sourceURL": "https://www.narscosmetics.com/USA/afterglow-lip-shine/999NAC0000112.html",
+      "retrievedAt": "2026-10-28T00:00:00Z",
+      "verifiedAt": null,
+      "region": "CN",
+      "confidence": 0.45,
+      "usagePermission": "manual_curation"
+    }
+  ],
+  "searchTags": [
+    "珊瑚色",
+    "粉色",
+    "高光泽",
+    "珠光",
+    "滋润",
+    "高反光",
+    "细腻珠光",
+    "全部肤质"
+  ],
+  "originalRecords": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "context": {
+        "adapter": "manual-json",
+        "row": 4,
+        "input": "/workspace/1/imports/seed/current-products.json"
+      },
+      "value": {
+        "id": "p4",
+        "brand": "NARS",
+        "name": "Afterglow Lip Shine",
+        "shade": "Orgasm",
+        "major": "唇部彩妆",
+        "category": "唇蜜",
+        "price": 260,
+        "currency": "CNY",
+        "priceDate": "2026-10-28",
+        "h": 15,
+        "s": 58,
+        "l": 68,
+        "muted": 18,
+        "tone": "warm",
+        "colors": [
+          "珊瑚色",
+          "粉色"
+        ],
+        "textures": [
+          "高光泽",
+          "珠光",
+          "滋润"
+        ],
+        "packaging": [
+          "透明包装",
+          "现代几何"
+        ],
+        "skin": [
+          "全部肤质"
+        ],
+        "metrics": {
+          "滋润": 4,
+          "黏腻": 3,
+          "光泽": 5,
+          "闪粉": 2,
+          "显色": 2,
+          "遮盖": 1,
+          "转移": 5,
+          "丰唇": 0,
+          "香味": null
+        },
+        "source": {
+          "label": "NARS 官方产品页（链接待在线复核）",
+          "url": "https://www.narscosmetics.com/USA/afterglow-lip-shine/999NAC0000112.html",
+          "verified": "网络策略限制，未完成在线复核"
+        },
+        "downside": "高光泽产品通常更容易转移，珠光效果也受光线影响。",
+        "swatch": "#dc9380",
+        "img": "assets/images/product-packaging.svg",
+        "series": "Afterglow Lip Shine",
+        "scenes": [
+          "上课与日常",
+          "通勤"
+        ],
+        "ingredients": [],
+        "ingredientStatus": "完整成分表待核实",
+        "value": 3,
+        "productType": "其他唇部产品",
+        "form": "唇蜜",
+        "attributeTags": [
+          "高反光",
+          "细腻珠光"
+        ],
+        "performance": {
+          "wear": {
+            "value": null,
+            "hours": null,
+            "source": "官方描述或资料待复核",
+            "confidence": "待核实"
+          },
+          "oxidation": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "film": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "transfer": {
+            "value": 0,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "layering": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "comfort": {
+            "value": 4,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "beginner": null,
+          "finish": [
+            "高反光",
+            "细腻珠光"
+          ],
+          "glitter": [
+            "细腻珠光"
+          ],
+          "completeness": "部分字段待核实"
+        }
+      }
+    }
+  ],
+  "ui": {
+    "h": 15,
+    "s": 58,
+    "l": 68,
+    "muted": 18,
+    "tone": "warm",
+    "colors": [
+      "珊瑚色",
+      "粉色"
+    ],
+    "textures": [
+      "高光泽",
+      "珠光",
+      "滋润"
+    ],
+    "packaging": [
+      "透明包装",
+      "现代几何"
+    ],
+    "skin": [
+      "全部肤质"
+    ],
+    "metrics": {
+      "滋润": 4,
+      "黏腻": 3,
+      "光泽": 5,
+      "闪粉": 2,
+      "显色": 2,
+      "遮盖": 1,
+      "转移": 5,
+      "丰唇": 0,
+      "香味": null
+    },
+    "downside": "高光泽产品通常更容易转移，珠光效果也受光线影响。",
+    "swatch": "#dc9380",
+    "scenes": [
+      "上课与日常",
+      "通勤"
+    ]
+  },
+  "conflicts": [],
+  "reviewFlags": [],
+  "dataCompleteness": {
+    "score": 71,
+    "sections": {
+      "basic": true,
+      "color": true,
+      "ingredients": false,
+      "performance": true,
+      "price": true,
+      "image": false,
+      "source": true
+    }
+  },
+  "status": {
+    "code": "PARTIALLY_VERIFIED",
+    "label": "PARTIALLY VERIFIED"
+  }
+}

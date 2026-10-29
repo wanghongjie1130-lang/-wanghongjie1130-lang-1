@@ -1,0 +1,226 @@
+[
+  {
+    "aliases": [
+      "口红",
+      "传统膏体口红",
+      "lipstick",
+      "lip color"
+    ],
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lipstick",
+    "format": "bullet"
+  },
+  {
+    "aliases": [
+      "液体口红",
+      "liquid lipstick",
+      "liquid lip"
+    ],
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "liquid_lipstick",
+    "format": "liquid"
+  },
+  {
+    "aliases": [
+      "唇蜜",
+      "lip gloss",
+      "lipgloss",
+      "gloss"
+    ],
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lip_gloss",
+    "format": "gloss"
+  },
+  {
+    "aliases": [
+      "唇油",
+      "lip oil"
+    ],
+    "department": "lips",
+    "category": "lip_care",
+    "subcategory": "lip_oil",
+    "format": "oil"
+  },
+  {
+    "aliases": [
+      "有色润唇膏",
+      "润唇产品",
+      "lip balm",
+      "tinted balm"
+    ],
+    "department": "lips",
+    "category": "lip_care",
+    "subcategory": "lip_balm",
+    "format": "balm"
+  },
+  {
+    "aliases": [
+      "唇釉",
+      "lip lacquer"
+    ],
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lip_lacquer",
+    "format": "liquid"
+  },
+  {
+    "aliases": [
+      "眼影盘",
+      "压盘粉状眼影",
+      "eyeshadow palette"
+    ],
+    "department": "eyes",
+    "category": "eyeshadow",
+    "subcategory": "palette",
+    "format": "pressed_powder"
+  },
+  {
+    "aliases": [
+      "单色眼影",
+      "eyeshadow",
+      "eye shadow"
+    ],
+    "department": "eyes",
+    "category": "eyeshadow",
+    "subcategory": "single",
+    "format": "powder"
+  },
+  {
+    "aliases": [
+      "液体眼影",
+      "liquid eyeshadow"
+    ],
+    "department": "eyes",
+    "category": "eyeshadow",
+    "subcategory": "single",
+    "format": "liquid"
+  },
+  {
+    "aliases": [
+      "眼线笔",
+      "眼线胶笔",
+      "eyeliner",
+      "eye pencil"
+    ],
+    "department": "eyes",
+    "category": "eyeliner",
+    "subcategory": "eyeliner",
+    "format": "pencil"
+  },
+  {
+    "aliases": [
+      "睫毛膏",
+      "mascara"
+    ],
+    "department": "eyes",
+    "category": "mascara",
+    "subcategory": "mascara",
+    "format": "liquid"
+  },
+  {
+    "aliases": [
+      "腮红",
+      "blush"
+    ],
+    "department": "face",
+    "category": "blush",
+    "subcategory": "blush",
+    "format": "unknown"
+  },
+  {
+    "aliases": [
+      "修容",
+      "contour"
+    ],
+    "department": "face",
+    "category": "contour",
+    "subcategory": "contour",
+    "format": "unknown"
+  },
+  {
+    "aliases": [
+      "古铜",
+      "bronzer"
+    ],
+    "department": "face",
+    "category": "bronzer",
+    "subcategory": "bronzer",
+    "format": "unknown"
+  },
+  {
+    "aliases": [
+      "高光",
+      "highlighter"
+    ],
+    "department": "face",
+    "category": "highlighter",
+    "subcategory": "highlighter",
+    "format": "unknown"
+  },
+  {
+    "aliases": [
+      "粉底",
+      "粉底液",
+      "foundation"
+    ],
+    "department": "complexion",
+    "category": "foundation",
+    "subcategory": "foundation",
+    "format": "liquid"
+  },
+  {
+    "aliases": [
+      "遮瑕",
+      "遮瑕液",
+      "concealer"
+    ],
+    "department": "complexion",
+    "category": "concealer",
+    "subcategory": "concealer",
+    "format": "liquid"
+  },
+  {
+    "aliases": [
+      "定妆粉",
+      "散粉",
+      "powder"
+    ],
+    "department": "complexion",
+    "category": "setting",
+    "subcategory": "setting_powder",
+    "format": "loose_powder"
+  },
+  {
+    "aliases": [
+      "定妆喷雾",
+      "setting spray"
+    ],
+    "department": "complexion",
+    "category": "setting",
+    "subcategory": "setting_spray",
+    "format": "spray"
+  },
+  {
+    "aliases": [
+      "眉部",
+      "brow"
+    ],
+    "department": "eyes",
+    "category": "brow",
+    "subcategory": "brow",
+    "format": "unknown"
+  },
+  {
+    "aliases": [
+      "刷具",
+      "brush"
+    ],
+    "department": "tools",
+    "category": "brush",
+    "subcategory": "brush",
+    "format": "tool"
+  }
+]

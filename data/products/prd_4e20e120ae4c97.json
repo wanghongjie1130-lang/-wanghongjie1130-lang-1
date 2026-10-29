@@ -1,0 +1,330 @@
+{
+  "canonicalProductID": "prd_4e20e120ae4c97",
+  "brand": {
+    "originalValue": "Rare Beauty",
+    "normalizedValue": "RARE BEAUTY"
+  },
+  "productLine": {
+    "originalValue": "Soft Pinch Liquid Blush",
+    "normalizedValue": "soft pinch liquid blush"
+  },
+  "name": {
+    "originalValue": "Soft Pinch Liquid Blush",
+    "normalizedValue": "soft pinch liquid blush"
+  },
+  "taxonomy": {
+    "department": "face",
+    "category": "blush",
+    "subcategory": "blush",
+    "format": "液体腮红",
+    "formulaType": "unknown",
+    "displayDepartment": "面部彩妆",
+    "displayCategory": "腮红",
+    "original": {
+      "department": "面部彩妆",
+      "category": "腮红",
+      "subcategory": "",
+      "format": "液体腮红"
+    }
+  },
+  "description": null,
+  "finish": [
+    "natural_glow"
+  ],
+  "coverage": null,
+  "claims": [],
+  "performanceData": [
+    {
+      "field": "晕染",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "光泽",
+      "value": 3,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "显色",
+      "value": 5,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    },
+    {
+      "field": "闪粉",
+      "value": 0,
+      "sourceType": "legacy_unverified",
+      "sourceID": "legacy-curated-2026-10-28",
+      "confidence": 0.35
+    }
+  ],
+  "ingredientLists": [],
+  "variants": [
+    {
+      "variantID": "var_0a1e8199725f2c",
+      "productID": "prd_4e20e120ae4c97",
+      "shade": {
+        "shadeName": "Hope",
+        "shadeCode": null,
+        "officialDescription": null,
+        "mainHue": 354,
+        "secondaryHue": null,
+        "hueBias": "neutral",
+        "lightness": 61,
+        "saturation": 36,
+        "mutedness": 38,
+        "temperature": "neutral",
+        "depth": null,
+        "opacity": null,
+        "finish": [
+          "natural_glow"
+        ],
+        "computedColor": true,
+        "swatch": "#bd7779",
+        "swatchSource": "legacy_manual_record"
+      },
+      "region": "CN",
+      "prices": [
+        {
+          "priceID": "price_34ea1eef00e61f",
+          "productID": "prd_4e20e120ae4c97",
+          "variantID": "var_0a1e8199725f2c",
+          "retailer": "Rare Beauty 官方产品页（链接待在线复核）",
+          "region": "CN",
+          "currency": "CNY",
+          "price": 210,
+          "salePrice": null,
+          "date": "2026-10-28",
+          "URL": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush",
+          "live": false
+        }
+      ],
+      "images": {
+        "officialPrimary": null,
+        "officialSecondary": [],
+        "officialSwatches": [],
+        "retailerImages": [],
+        "userImages": []
+      },
+      "sources": [
+        {
+          "sourceID": "legacy-curated-2026-10-28",
+          "source": "Rare Beauty 官方产品页（链接待在线复核）",
+          "sourceType": "manual_json",
+          "sourceURL": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush",
+          "retrievedAt": "2026-10-28T00:00:00Z",
+          "verifiedAt": null,
+          "region": "CN",
+          "confidence": 0.45,
+          "usagePermission": "manual_curation"
+        }
+      ]
+    }
+  ],
+  "images": {
+    "officialPrimary": null,
+    "officialSecondary": [],
+    "officialSwatches": [],
+    "retailerImages": [],
+    "userImages": [],
+    "textureReference": null,
+    "simulatedImages": [],
+    "placeholder": "assets/images/product-packaging.svg"
+  },
+  "imageSources": [],
+  "sources": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "source": "Rare Beauty 官方产品页（链接待在线复核）",
+      "sourceType": "manual_json",
+      "sourceURL": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush",
+      "retrievedAt": "2026-10-28T00:00:00Z",
+      "verifiedAt": null,
+      "region": "CN",
+      "confidence": 0.45,
+      "usagePermission": "manual_curation"
+    }
+  ],
+  "searchTags": [
+    "粉色",
+    "裸色",
+    "液体",
+    "高显色",
+    "自然光泽",
+    "干性",
+    "中性",
+    "混合性"
+  ],
+  "originalRecords": [
+    {
+      "sourceID": "legacy-curated-2026-10-28",
+      "context": {
+        "adapter": "manual-json",
+        "row": 9,
+        "input": "/workspace/1/imports/seed/current-products.json"
+      },
+      "value": {
+        "id": "p9",
+        "brand": "Rare Beauty",
+        "name": "Soft Pinch Liquid Blush",
+        "shade": "Hope",
+        "major": "面部彩妆",
+        "category": "腮红",
+        "price": 210,
+        "currency": "CNY",
+        "priceDate": "2026-10-28",
+        "h": 354,
+        "s": 36,
+        "l": 61,
+        "muted": 38,
+        "tone": "neutral",
+        "colors": [
+          "粉色",
+          "裸色"
+        ],
+        "textures": [
+          "液体",
+          "高显色",
+          "自然光泽"
+        ],
+        "packaging": [
+          "透明包装",
+          "现代几何"
+        ],
+        "skin": [
+          "干性",
+          "中性",
+          "混合性"
+        ],
+        "metrics": {
+          "晕染": 5,
+          "粉质": null,
+          "光泽": 3,
+          "显色": 5,
+          "闪粉": 0
+        },
+        "source": {
+          "label": "Rare Beauty 官方产品页（链接待在线复核）",
+          "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush",
+          "verified": "网络策略限制，未完成在线复核"
+        },
+        "downside": "显色度高，取量过多时较难修正。",
+        "swatch": "#bd7779",
+        "img": "assets/images/product-packaging.svg",
+        "series": "Soft Pinch Liquid Blush",
+        "scenes": [
+          "上课与日常",
+          "通勤"
+        ],
+        "ingredients": [],
+        "ingredientStatus": "完整成分表待核实",
+        "value": 3,
+        "productType": "腮红",
+        "form": "液体腮红",
+        "attributeTags": [
+          "自然光泽"
+        ],
+        "performance": {
+          "wear": {
+            "value": null,
+            "hours": null,
+            "source": "官方描述或资料待复核",
+            "confidence": "待核实"
+          },
+          "oxidation": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "film": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "transfer": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "layering": {
+            "value": null,
+            "source": "未知",
+            "confidence": "未知"
+          },
+          "comfort": {
+            "value": null,
+            "source": "资料待复核",
+            "confidence": "待核实"
+          },
+          "beginner": null,
+          "finish": [
+            "自然光泽"
+          ],
+          "glitter": [],
+          "completeness": "部分字段待核实"
+        }
+      }
+    }
+  ],
+  "ui": {
+    "h": 354,
+    "s": 36,
+    "l": 61,
+    "muted": 38,
+    "tone": "neutral",
+    "colors": [
+      "粉色",
+      "裸色"
+    ],
+    "textures": [
+      "液体",
+      "高显色",
+      "自然光泽"
+    ],
+    "packaging": [
+      "透明包装",
+      "现代几何"
+    ],
+    "skin": [
+      "干性",
+      "中性",
+      "混合性"
+    ],
+    "metrics": {
+      "晕染": 5,
+      "粉质": null,
+      "光泽": 3,
+      "显色": 5,
+      "闪粉": 0
+    },
+    "downside": "显色度高，取量过多时较难修正。",
+    "swatch": "#bd7779",
+    "scenes": [
+      "上课与日常",
+      "通勤"
+    ]
+  },
+  "conflicts": [],
+  "reviewFlags": [],
+  "dataCompleteness": {
+    "score": 71,
+    "sections": {
+      "basic": true,
+      "color": true,
+      "ingredients": false,
+      "performance": true,
+      "price": true,
+      "image": false,
+      "source": true
+    }
+  },
+  "status": {
+    "code": "PARTIALLY_VERIFIED",
+    "label": "PARTIALLY VERIFIED"
+  }
+}

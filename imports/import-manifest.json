@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "imports": [
+    {
+      "adapter": "manual-json",
+      "input": "imports/seed/current-products.json"
+    }
+  ]
+}

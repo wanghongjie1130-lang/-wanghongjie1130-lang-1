@@ -1,0 +1,823 @@
+[
+  {
+    "id": "prd_e4da4237492932",
+    "brand": "Dior",
+    "normalizedBrand": "DIOR",
+    "name": "Rouge Dior",
+    "productLine": "Rouge Dior",
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lipstick",
+    "format": "传统膏体口红",
+    "finishes": [
+      "soft_matte"
+    ],
+    "shades": [
+      {
+        "id": "var_ea4df4b72815f1",
+        "name": "100 Nude Look Velvet",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 390,
+    "priceMax": 390,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "裸色",
+        "棕色",
+        "柔雾",
+        "高显色",
+        "高遮盖",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "滋润",
+        "黏腻",
+        "光泽",
+        "闪粉",
+        "显色",
+        "遮盖",
+        "转移",
+        "丰唇",
+        "香味"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_e4da4237492932.json"
+  },
+  {
+    "id": "prd_2242e83a1284ad",
+    "brand": "CHANEL",
+    "normalizedBrand": "CHANEL",
+    "name": "ROUGE COCO BAUME",
+    "productLine": "ROUGE COCO BAUME",
+    "department": "lips",
+    "category": "lip_care",
+    "subcategory": "lip_balm",
+    "format": "有色润唇膏",
+    "finishes": [
+      "natural_glow"
+    ],
+    "shades": [
+      {
+        "id": "var_c25332981be95c",
+        "name": "918 My Rose",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 380,
+    "priceMax": 380,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "粉色",
+        "裸色",
+        "滋润",
+        "轻薄",
+        "自然光泽",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "滋润",
+        "黏腻",
+        "光泽",
+        "闪粉",
+        "显色",
+        "遮盖",
+        "转移",
+        "丰唇"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_2242e83a1284ad.json"
+  },
+  {
+    "id": "prd_3c1cd02816e98e",
+    "brand": "MAC",
+    "normalizedBrand": "MAC",
+    "name": "M·A·Cximal Silky Matte Lipstick",
+    "productLine": "M·A·Cximal Silky Matte Lipstick",
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lipstick",
+    "format": "传统膏体口红",
+    "finishes": [
+      "matte"
+    ],
+    "shades": [
+      {
+        "id": "var_40c1d8d1f0a79f",
+        "name": "Velvet Teddy",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 230,
+    "priceMax": 230,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "裸色",
+        "棕色",
+        "哑光",
+        "高显色",
+        "高遮盖",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "滋润",
+        "黏腻",
+        "光泽",
+        "闪粉",
+        "显色",
+        "遮盖",
+        "转移",
+        "丰唇"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "warm"
+    },
+    "detailPath": "data/products/prd_3c1cd02816e98e.json"
+  },
+  {
+    "id": "prd_93570d55d72b99",
+    "brand": "NARS",
+    "normalizedBrand": "NARS",
+    "name": "Afterglow Lip Shine",
+    "productLine": "Afterglow Lip Shine",
+    "department": "lips",
+    "category": "lip_color",
+    "subcategory": "lip_gloss",
+    "format": "唇蜜",
+    "finishes": [
+      "glossy",
+      "shimmer"
+    ],
+    "shades": [
+      {
+        "id": "var_fd65901e5757f2",
+        "name": "Orgasm",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 260,
+    "priceMax": 260,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "珊瑚色",
+        "粉色",
+        "高光泽",
+        "珠光",
+        "滋润",
+        "高反光",
+        "细腻珠光",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "滋润",
+        "黏腻",
+        "光泽",
+        "闪粉",
+        "显色",
+        "遮盖",
+        "转移",
+        "丰唇"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "warm"
+    },
+    "detailPath": "data/products/prd_93570d55d72b99.json"
+  },
+  {
+    "id": "prd_809ebd26609481",
+    "brand": "Charlotte Tilbury",
+    "normalizedBrand": "CHARLOTTE TILBURY",
+    "name": "Luxury Palette",
+    "productLine": "Luxury Palette",
+    "department": "eyes",
+    "category": "eyeshadow",
+    "subcategory": "palette",
+    "format": "压盘粉状眼影",
+    "finishes": [
+      "matte",
+      "shimmer"
+    ],
+    "shades": [
+      {
+        "id": "var_3c6e10695793a9",
+        "name": "The Rock Chick",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 460,
+    "priceMax": 460,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "灰色",
+        "银色",
+        "黑色",
+        "哑光",
+        "珠光",
+        "细闪",
+        "眼影盘",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "哑光",
+        "珠光",
+        "闪粉",
+        "显色",
+        "粉质",
+        "飞粉",
+        "晕染",
+        "持妆"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "cool"
+    },
+    "detailPath": "data/products/prd_809ebd26609481.json"
+  },
+  {
+    "id": "prd_2253acf9f10e2e",
+    "brand": "Natasha Denona",
+    "normalizedBrand": "NATASHA DENONA",
+    "name": "Glam Eyeshadow Palette",
+    "productLine": "Glam Eyeshadow Palette",
+    "department": "eyes",
+    "category": "eyeshadow",
+    "subcategory": "palette",
+    "format": "压盘粉状眼影",
+    "finishes": [
+      "matte",
+      "shimmer",
+      "metallic"
+    ],
+    "shades": [
+      {
+        "id": "var_711eae005bcfd7",
+        "name": "15 shades",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 570,
+    "priceMax": 570,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "棕色",
+        "灰色",
+        "金色",
+        "哑光",
+        "珠光",
+        "金属",
+        "眼影盘",
+        "金属光泽",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "哑光",
+        "珠光",
+        "闪粉",
+        "显色",
+        "粉质",
+        "飞粉",
+        "晕染",
+        "持妆"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_2253acf9f10e2e.json"
+  },
+  {
+    "id": "prd_b86ab6c04c111e",
+    "brand": "Urban Decay",
+    "normalizedBrand": "URBAN DECAY",
+    "name": "24/7 Glide-On Eye Pencil",
+    "productLine": "24/7 Glide-On Eye Pencil",
+    "department": "eyes",
+    "category": "eyeliner",
+    "subcategory": "eyeliner",
+    "format": "眼线胶笔",
+    "finishes": [
+      "shimmer"
+    ],
+    "shades": [
+      {
+        "id": "var_8566e91139dbc3",
+        "name": "Electric Empire",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 190,
+    "priceMax": 190,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "绿色",
+        "珠光",
+        "高显色",
+        "高持妆",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "哑光",
+        "珠光",
+        "闪粉",
+        "显色",
+        "晕染",
+        "持妆"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "cool"
+    },
+    "detailPath": "data/products/prd_b86ab6c04c111e.json"
+  },
+  {
+    "id": "prd_1a465019d6de63",
+    "brand": "NARS",
+    "normalizedBrand": "NARS",
+    "name": "Blush",
+    "productLine": "Blush",
+    "department": "face",
+    "category": "blush",
+    "subcategory": "blush",
+    "format": "粉状腮红",
+    "finishes": [
+      "shimmer",
+      "natural_glow"
+    ],
+    "shades": [
+      {
+        "id": "var_9b0da7865a463a",
+        "name": "Orgasm",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 330,
+    "priceMax": 330,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "珊瑚色",
+        "粉色",
+        "金色",
+        "珠光",
+        "自然光泽",
+        "高显色",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "晕染",
+        "粉质",
+        "光泽",
+        "显色",
+        "闪粉"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "warm"
+    },
+    "detailPath": "data/products/prd_1a465019d6de63.json"
+  },
+  {
+    "id": "prd_4e20e120ae4c97",
+    "brand": "Rare Beauty",
+    "normalizedBrand": "RARE BEAUTY",
+    "name": "Soft Pinch Liquid Blush",
+    "productLine": "Soft Pinch Liquid Blush",
+    "department": "face",
+    "category": "blush",
+    "subcategory": "blush",
+    "format": "液体腮红",
+    "finishes": [
+      "natural_glow"
+    ],
+    "shades": [
+      {
+        "id": "var_0a1e8199725f2c",
+        "name": "Hope",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 210,
+    "priceMax": 210,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "粉色",
+        "裸色",
+        "液体",
+        "高显色",
+        "自然光泽",
+        "干性",
+        "中性",
+        "混合性"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "晕染",
+        "光泽",
+        "显色",
+        "闪粉"
+      ],
+      "skin": [
+        "干性",
+        "中性",
+        "混合性"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_4e20e120ae4c97.json"
+  },
+  {
+    "id": "prd_1d13a62c6596a0",
+    "brand": "Armani Beauty",
+    "normalizedBrand": "ARMANI BEAUTY",
+    "name": "Luminous Silk Foundation",
+    "productLine": "Luminous Silk Foundation",
+    "department": "complexion",
+    "category": "foundation",
+    "subcategory": "foundation",
+    "format": "粉底液",
+    "finishes": [
+      "natural_glow"
+    ],
+    "shades": [
+      {
+        "id": "var_18526a5a6b1c30",
+        "name": "4.5 reference",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 640,
+    "priceMax": 640,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "裸色",
+        "轻薄",
+        "自然光泽",
+        "中等遮瑕",
+        "自然皮肤光泽",
+        "干性",
+        "中性",
+        "混合性"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "遮瑕",
+        "轻薄",
+        "保湿",
+        "控油",
+        "光泽",
+        "持妆"
+      ],
+      "skin": [
+        "干性",
+        "中性",
+        "混合性"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_1d13a62c6596a0.json"
+  },
+  {
+    "id": "prd_f55a34f3873f96",
+    "brand": "Estée Lauder",
+    "normalizedBrand": "ESTÉE LAUDER",
+    "name": "Double Wear Stay-in-Place Makeup",
+    "productLine": "Double Wear Stay-in-Place Makeup",
+    "department": "complexion",
+    "category": "foundation",
+    "subcategory": "foundation",
+    "format": "粉底液",
+    "finishes": [
+      "soft_matte"
+    ],
+    "shades": [
+      {
+        "id": "var_4d6fdab4ca4b50",
+        "name": "2N1 Desert Beige reference",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 490,
+    "priceMax": 490,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "裸色",
+        "高持妆",
+        "高遮瑕",
+        "控油",
+        "柔雾",
+        "油性",
+        "混合性",
+        "中性"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "遮瑕",
+        "轻薄",
+        "保湿",
+        "控油",
+        "光泽",
+        "持妆"
+      ],
+      "skin": [
+        "油性",
+        "混合性",
+        "中性"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_f55a34f3873f96.json"
+  },
+  {
+    "id": "prd_1ad11d6fffb3e1",
+    "brand": "Hourglass",
+    "normalizedBrand": "HOURGLASS",
+    "name": "Vanish Airbrush Concealer",
+    "productLine": "Vanish Airbrush Concealer",
+    "department": "complexion",
+    "category": "concealer",
+    "subcategory": "concealer",
+    "format": "遮瑕液",
+    "finishes": [],
+    "shades": [
+      {
+        "id": "var_cc5027affae8af",
+        "name": "Oat reference",
+        "code": null
+      }
+    ],
+    "thumbnail": "assets/images/product-packaging.svg",
+    "imageType": "PRODUCT PLACEHOLDER",
+    "imageFallbackType": "placeholder",
+    "imageOptions": {
+      "officialPrimary": null,
+      "officialSecondary": [],
+      "officialSwatches": [],
+      "retailerImages": [],
+      "userImages": [],
+      "textureReference": null,
+      "simulatedImages": [],
+      "placeholder": "assets/images/product-packaging.svg"
+    },
+    "priceMin": 360,
+    "priceMax": 360,
+    "currency": "CNY",
+    "status": {
+      "code": "PARTIALLY_VERIFIED",
+      "label": "PARTIALLY VERIFIED"
+    },
+    "dataCompleteness": 71,
+    "basicFilterData": {
+      "searchTags": [
+        "裸色",
+        "高遮瑕",
+        "自然妆效",
+        "高持妆",
+        "全部肤质"
+      ],
+      "ingredients": [],
+      "performanceFields": [
+        "遮瑕",
+        "轻薄",
+        "光泽",
+        "持妆"
+      ],
+      "skin": [
+        "全部肤质"
+      ],
+      "tone": "neutral"
+    },
+    "detailPath": "data/products/prd_1ad11d6fffb3e1.json"
+  }
+]

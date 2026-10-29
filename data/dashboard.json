@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-29T13:44:55.024Z",
+  "products": 12,
+  "brands": 11,
+  "variants": 12,
+  "shades": 12,
+  "completeIngredients": 0,
+  "withPriceData": 12,
+  "sources": 12,
+  "duplicates": 0,
+  "conflicts": 0,
+  "needsReview": 0,
+  "dataIncomplete": 0,
+  "images": {
+    "official": 0,
+    "missingOfficial": 12,
+    "retailerFallback": 0,
+    "userFallback": 0,
+    "placeholder": 12
+  }
+}
